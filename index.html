@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Most Active Developers India</title>
+    <meta name="description" content="Discover the top contributors from India on GitHub" />
+    <meta name="author" content="Yashraj Nayak" />
+    <link rel="icon" type="image/x-icon" href="/most-active-developers-india/india-flag.ico" />
+    <meta property="og:title" content="Most Active Developers India" />
+    <meta property="og:description" content="Discover the top contributors from India on GitHub" />
+    <meta property="og:image" content="/most-active-developers-india/og-image.png" />
+    <script type="text/javascript">
+      (function(l) {
+        if (l.search[1] === '/' ) {
+          var decoded = l.search.slice(1).split('&').map(function(s) { 
+            return s.replace(/~and~/g, '&')
+          }).join('?');
+          window.history.replaceState(null, null,
+              l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      }(window.location))
+    </script>
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
