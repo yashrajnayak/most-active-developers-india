@@ -14,7 +14,7 @@ const OUTPUT_FILE = path.join(process.cwd(), 'public', 'data', 'github-data.json
 // GitHub Token for API access
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const IS_WORKFLOW_DISPATCH = process.env.GITHUB_EVENT_NAME === 'workflow_dispatch';
-const USERS_LIMIT = IS_WORKFLOW_DISPATCH ? 6 : 50;
+const USERS_LIMIT = IS_WORKFLOW_DISPATCH ? 50 : 50;
 
 const headers = GITHUB_TOKEN 
   ? { 'Authorization': `token ${GITHUB_TOKEN}` } 
