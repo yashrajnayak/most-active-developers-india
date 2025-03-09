@@ -9,7 +9,7 @@ interface UserCardProps {
 
 const UserCard = ({ user, index }: UserCardProps) => {
   return (
-    <div className="h-full">
+    <div className={`h-full animate-fade-in`} style={{ animationDelay: `${index * 100}ms` }}>
       <div className="bg-card rounded-xl overflow-hidden shadow-elevation-1 border h-full transition-shadow hover:shadow-elevation-3">
         <div className="p-5 flex flex-col h-full">
           <div className="flex items-center gap-4">

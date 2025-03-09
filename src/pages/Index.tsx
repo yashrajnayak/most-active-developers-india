@@ -52,7 +52,7 @@ const Index = () => {
           </div>
           
           <h1 className="text-3xl md:text-4xl font-bold text-center mb-2 animate-fade-in">
-            Most Active GitHub Developers
+            Most Active Developers 🇮🇳
           </h1>
           <p className="text-center text-muted-foreground mb-8 animate-fade-in animation-delay-200">
             Discover the top contributors from India on GitHub
