@@ -1,52 +1,52 @@
-# Most Active Developers India 🇮🇳
+# Most Active Developers India
 
-A modern web application that showcases the most active GitHub developers from India, featuring a beautiful, responsive UI built with modern web technologies. ✨
+A modern web application that showcases the most active GitHub developers from India, featuring a beautiful, responsive UI built with modern web technologies.
 
 ![App Screenshot](/public/app-screenshot.jpeg)
 
-## ✨ Features
+## Features
 
-- **Real-time Data Updates** 🔄: 
+- **Real-time Data Updates** 🔄 
   - Daily updates via GitHub Actions fetching top 50 developers per category
   - Quick preview updates through manual workflow dispatch (top 6 per category)
 - **Modern UI/UX** 🎨:
   - System-aware dark/light mode with smooth transitions
   - Staggered animations and smooth loading states
   - Responsive design optimized for all devices
-- **Rich Developer Profiles** 👤:
+- **Rich Developer Profiles** 👤
   - GitHub avatars and rank indicators
   - Full names, usernames, and verified locations
   - Comprehensive bio sections
   - Total repository stars and follower counts
   - Direct GitHub profile links
-- **Multiple Ranking Categories** 🏆:
+- **Multiple Ranking Categories** 🏆
   - Commits (Total commit contributions)
   - Contributions (Public repository contributions)
   - All (Combined public and private activity)
-- **Performance Optimized** ⚡:
+- **Performance Optimized** ⚡
   - Static site generation for fast loading
   - Optimized image loading with lazy load
   - Smart data caching and state management
 
 ## 🛠️ Technology Stack
 
-- **Frontend Framework** ⚛️:
+- **Frontend Framework** ⚛️
   - [React](https://react.dev/) - UI library
   - [Vite](https://vitejs.dev/) - Build tool and dev server
   - [TypeScript](https://www.typescriptlang.org/) - Type safety
   - [Bun](https://bun.sh/) - Fast JavaScript runtime and package manager
 
-- **Styling & Components** 🎯:
+- **Styling & Components** 🎯
   - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS
   - [shadcn/ui](https://ui.shadcn.com/) - Accessible component system
   - [Lucide Icons](https://lucide.dev/) - Beautiful icons
 
-- **Data & State Management** 📊:
+- **Data & State Management** 📊
   - GitHub API for user data
   - Custom hooks for state management
   - Local storage for theme persistence
 
-- **Infrastructure** 🏗️:
+- **Infrastructure** 🏗️
   - GitHub Actions for automated workflows
   - GitHub Pages for hosting
   - GitHub API for data fetching
