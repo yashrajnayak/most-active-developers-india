@@ -132,8 +132,12 @@ async function main() {
     const processCategory = (users, categoryName) => {
       const limitedUsers = limitArray(users);
       console.log(`Processing ${limitedUsers.length} users in ${categoryName}...`);
-      return limitedUsers.map((username, index) => ({
-        rank: index + 1,
+      
+      // Create a map of username to their original rank in this category
+      const rankMap = new Map(users.map((username, idx) => [username, idx + 1]));
+      
+      return limitedUsers.map(username => ({
+        rank: rankMap.get(username), // Use the original rank from the category
         login: username,
         profile: profilesMap.get(username) || null
       }));
