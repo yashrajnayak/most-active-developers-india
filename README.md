@@ -54,10 +54,10 @@ A modern web application that showcases the most active GitHub developers from I
 ## 🔄 Data Update
 
 The application uses a GitHub Actions workflow:
-   - Runs daily at midnight UTC
+   - Runs daily at 09:46 UTC (15:16 IST)
    - Fetches top 50 developers per category
    - Updates the `github-data.json` file
-   - Can be triggered manually to fetches top 6 developers per category
+   - Can be triggered manually to fetch top 6 developers per category
 
 ## 🤝 Contributing
 
@@ -79,4 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ♥️ to celebrate India's developers and their contributions to open source. 
+Built with ♥️ to celebrate India's developers and their contributions to open source.

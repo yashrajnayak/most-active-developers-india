@@ -1,4 +1,3 @@
-
 import { Github } from 'lucide-react';
 
 const Footer = () => {
@@ -27,6 +26,11 @@ const Footer = () => {
             <span>View on GitHub</span>
           </a>
         </div>
+      </div>
+      <div className="container text-center flex flex-col gap-4 items-center justify-center">
+        <p className="text-muted-foreground text-sm text-center">
+          Data sourced from <a href="https://committers.top/india" target="_blank" rel="noopener noreferrer" className="font-medium underline underline-offset-4">committers.top/india</a> by <a href="https://github.com/ashkulz" target="_blank" rel="noopener noreferrer" className="font-medium underline underline-offset-4">ashkulz</a>. This project is not affiliated with GitHub.
+        </p>
       </div>
     </footer>
   );

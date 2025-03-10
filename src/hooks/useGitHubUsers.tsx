@@ -70,9 +70,10 @@ export const useGitHubUsers = () => {
   const getUsersByCategory = (category: TabType) => {
     if (!rankData) return [];
     
-    return rankData[category].map(user => ({
-      ...user,
-      ...profilesMap[user.login]
+    return rankData[category].map(userEntry => ({
+      ...userEntry,
+      rank: userEntry.rank, // preserve category-specific rank
+      ...profilesMap[userEntry.login]
     })).filter(user => !!profilesMap[user.login]);
   };
   
