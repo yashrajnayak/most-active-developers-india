@@ -9,7 +9,7 @@ A modern web application that showcases the most active GitHub developers from I
 - **Real-time Data Updates** 🔄 
   - Daily updates via GitHub Actions fetching top 50 developers per category
   - Quick preview updates through manual workflow dispatch (top 6 per category)
-- **Modern UI/UX** 🎨:
+- **Modern UI/UX** 🎨
   - System-aware dark/light mode with smooth transitions
   - Staggered animations and smooth loading states
   - Responsive design optimized for all devices
