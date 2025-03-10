@@ -2,7 +2,7 @@
 
 A modern web application that showcases the most active GitHub developers from India, featuring a beautiful, responsive UI built with modern web technologies.
 
-![App Screenshot](/public/app-screenshot.jpeg)
+![App Screenshot](/public/og-image.png)
 
 ## Features
 
