@@ -10,7 +10,7 @@ const Footer = () => {
               Project by <a href="https://github.com/yashrajnayak" className="font-medium underline underline-offset-4">Yashraj Nayak</a>
             </p>
             <p className="text-muted-foreground text-sm">
-              Data sourced from <a href="https://committers.top/india" target="_blank" rel="noopener noreferrer" className="font-medium underline underline-offset-4">committers.top/india</a> by <a href="https://github.com/ashkulz" target="_blank" rel="noopener noreferrer" className="font-medium underline underline-offset-4">ashkulz</a>. This project is not affiliated with GitHub.
+              Ranking data sourced from <a href="https://committers.top/india" target="_blank" rel="noopener noreferrer" className="font-medium underline underline-offset-4">committers.top/india</a> by <a href="https://github.com/ashkulz" target="_blank" rel="noopener noreferrer" className="font-medium underline underline-offset-4">ashkulz</a>. This project is not affiliated with GitHub.
             </p>
           </div>
           
