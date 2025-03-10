@@ -51,7 +51,7 @@ export const useGitHubUsers = () => {
               location: user.profile.location,
               followers: user.profile.followers,
               total_stars: user.profile.total_stars || 0,
-              rank: user.rank
+              rank: 0 // Default rank that will be overridden by category-specific rank
             };
           }
         });
@@ -71,9 +71,8 @@ export const useGitHubUsers = () => {
     if (!rankData) return [];
     
     return rankData[category].map(userEntry => ({
-      ...userEntry,
-      rank: userEntry.rank, // preserve category-specific rank
-      ...profilesMap[userEntry.login]
+      ...profilesMap[userEntry.login], // Spread profile data first
+      ...userEntry, // Then spread category entry to ensure rank is from the category
     })).filter(user => !!profilesMap[user.login]);
   };
   
