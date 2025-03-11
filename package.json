@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && cp docs/index.html docs/404.html",
+    "build": "vite build && cp dist/index.html dist/404.html",
     "build:dev": "vite build --mode development",
+    "deploy": "npm run build && cp -r dist/* .",
     "lint": "eslint .",
     "preview": "vite preview"
   },

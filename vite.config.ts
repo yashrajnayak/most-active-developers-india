@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: '/most-active-developers-india/',
   build: {
-    outDir: 'docs' // GitHub Pages can serve from /docs on the main branch
+    outDir: 'dist' // Changed from 'docs' to 'dist' for standard output directory
   }
 })
