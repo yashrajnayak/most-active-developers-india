@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: '/most-active-developers-india/',
   build: {
-    outDir: 'dist' // Changed from 'docs' to 'dist' for standard output directory
+    outDir: 'dist'
   }
 })

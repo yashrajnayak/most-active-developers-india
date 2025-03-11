@@ -1,6 +1,6 @@
 # Most Active Developers India
 
-Web app that showcases the most active GitHub developers from India, featuring a modern, responsive UI.
+Web app that showcases the most active GitHub developers from India, featuring a modern, responsive UI. Built with ♥️ to celebrate India's developers and their contributions to open source.
 
 ![App Screenshot](/public/og-image.png)
 
@@ -68,9 +68,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - [committers.top](https://committers.top/) for the ranking data
-- [GitHub API](https://docs.github.com/en/rest) for developer information
 - [Octodex](https://octodex.github.com/) for the app icon
-
----
-
-Built with ♥️ to celebrate India's developers and their contributions to open source.
