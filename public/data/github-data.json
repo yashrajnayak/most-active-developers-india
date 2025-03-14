@@ -1,5 +1,5 @@
 {
-  "date": "2025-03-13T09:53:17.576Z",
+  "date": "2025-03-14T09:53:24.934Z",
   "user": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
         "html_url": "https://github.com/JayantGoel001",
         "bio": "SDE-1 At @Swiggy | ASDE - 2 At @PublicisSapient | Former Data Science Intern At @Talentdecrypt | Former Android Developer At @Theatron",
         "location": "Ghaziabad, India, Planet C-53",
-        "followers": 977,
-        "total_stars": 1853
+        "followers": 981,
+        "total_stars": 1854
       }
     },
     {
@@ -25,7 +25,7 @@
         "html_url": "https://github.com/bigint",
         "bio": "Creator of @heyxyz 🌸",
         "location": "Bangalore, India",
-        "followers": 1176,
+        "followers": 1180,
         "total_stars": 45
       }
     },
@@ -39,12 +39,26 @@
         "html_url": "https://github.com/instrik",
         "bio": "I am a full stack developer.\r\nFeel free to reach out to me for any opportunity.",
         "location": "Dehradun, India",
-        "followers": 2577,
+        "followers": 2578,
         "total_stars": 118
       }
     },
     {
       "rank": 4,
+      "login": "farhan7reza7",
+      "profile": {
+        "login": "farhan7reza7",
+        "name": "Farhan Reza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108195448?v=4",
+        "html_url": "https://github.com/farhan7reza7",
+        "bio": "✨💻Founder & Developer of QuranBookk.com  | Software Developer |  Skilled in Js, Ts,  Py, MERN, React, NextJs, ...💡👨‍💻\r\n\r\n🌐let's get connected.🚀",
+        "location": "New Delhi, India",
+        "followers": 2417,
+        "total_stars": 1784
+      }
+    },
+    {
+      "rank": 5,
       "login": "amhsirak",
       "profile": {
         "login": "amhsirak",
@@ -53,12 +67,12 @@
         "html_url": "https://github.com/amhsirak",
         "bio": "building maxun.dev",
         "location": "Mumbai, India",
-        "followers": 372,
+        "followers": 374,
         "total_stars": 204
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "login": "sanidhyy",
       "profile": {
         "login": "sanidhyy",
@@ -67,12 +81,12 @@
         "html_url": "https://github.com/sanidhyy",
         "bio": "I code in JavaScript (mostly React), I am currently a high school student. It's not all fun, but I learn and make awesome things. I'm gonna make big footprint.",
         "location": "Sitapur, UP, India",
-        "followers": 334,
-        "total_stars": 1506
+        "followers": 335,
+        "total_stars": 1510
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "login": "Sabyasachi-Seal",
       "profile": {
         "login": "Sabyasachi-Seal",
@@ -86,7 +100,21 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "login": "kovidgoyal",
+      "profile": {
+        "login": "kovidgoyal",
+        "name": "Kovid Goyal",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1308621?v=4",
+        "html_url": "https://github.com/kovidgoyal",
+        "bio": "Principal developer of calibre and kitty",
+        "location": "Mumbai, India",
+        "followers": 4582,
+        "total_stars": 49273
+      }
+    },
+    {
+      "rank": 9,
       "login": "neobuddy89",
       "profile": {
         "login": "neobuddy89",
@@ -100,21 +128,7 @@
       }
     },
     {
-      "rank": 8,
-      "login": "kovidgoyal",
-      "profile": {
-        "login": "kovidgoyal",
-        "name": "Kovid Goyal",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1308621?v=4",
-        "html_url": "https://github.com/kovidgoyal",
-        "bio": "Principal developer of calibre and kitty",
-        "location": "Mumbai, India",
-        "followers": 4581,
-        "total_stars": 49249
-      }
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "login": "niks-nikhil-anand",
       "profile": {
         "login": "niks-nikhil-anand",
@@ -128,20 +142,6 @@
       }
     },
     {
-      "rank": 10,
-      "login": "mdazfar2",
-      "profile": {
-        "login": "mdazfar2",
-        "name": "Md Azfar Alam",
-        "avatar_url": "https://avatars.githubusercontent.com/u/100375390?v=4",
-        "html_url": "https://github.com/mdazfar2",
-        "bio": "Open Source 💜 | Founder at HelpOpsHub.com 🌐 | DevOps Practitioner 🔖 | Knowledge Sharer 📚 | Open for Collab 🤝",
-        "location": "Jaipur, Rajasthan",
-        "followers": 292,
-        "total_stars": 281
-      }
-    },
-    {
       "rank": 11,
       "login": "barelyhuman",
       "profile": {
@@ -152,21 +152,21 @@
         "bio": "just another developer",
         "location": "India",
         "followers": 299,
-        "total_stars": 948
+        "total_stars": 1007
       }
     },
     {
       "rank": 12,
-      "login": "rubydamodar",
+      "login": "mdazfar2",
       "profile": {
-        "login": "rubydamodar",
-        "name": "Ruby Damodar Poddar",
-        "avatar_url": "https://avatars.githubusercontent.com/u/184370054?v=4",
-        "html_url": "https://github.com/rubydamodar",
-        "bio": "⁌ ᴅᴀᴛᴀ 📊 | ᴄᴏᴅᴇ 💻 | ᴡɪʟᴅʟɪғᴇ ᴋɪɴ 🐾 | ɴᴀᴛᴜʀᴇ'ꜱ ꜱᴏᴜʟ 🌿 | ᴘᴏᴇᴛʀʏ ✍",
-        "location": "New Delhi",
-        "followers": 275,
-        "total_stars": 233
+        "login": "mdazfar2",
+        "name": "Md Azfar Alam",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100375390?v=4",
+        "html_url": "https://github.com/mdazfar2",
+        "bio": "Open Source 💜 | Founder at HelpOpsHub.com 🌐 | DevOps Practitioner 🔖 | Knowledge Sharer 📚 | Open for Collab 🤝",
+        "location": "Jaipur, Rajasthan",
+        "followers": 291,
+        "total_stars": 281
       }
     },
     {
@@ -179,7 +179,7 @@
         "html_url": "https://github.com/QUICK-GCP-LAB",
         "bio": "Welcome to the QUICK GCP LAB GitHub repository ! \r\n\r\nThese repository are designed to help learners solve Google Cloud Labs...",
         "location": "India",
-        "followers": 300,
+        "followers": 302,
         "total_stars": 453
       }
     },
@@ -207,7 +207,7 @@
         "html_url": "https://github.com/PiyushKumarSingh-90",
         "bio": null,
         "location": "maharastra mumbai",
-        "followers": 697,
+        "followers": 695,
         "total_stars": 30
       }
     },
@@ -221,8 +221,8 @@
         "html_url": "https://github.com/VJBots",
         "bio": "My Name Is Vijay Anand 👨‍💻.\r\n",
         "location": "India",
-        "followers": 313,
-        "total_stars": 2351
+        "followers": 315,
+        "total_stars": 2359
       }
     },
     {
@@ -241,20 +241,6 @@
     },
     {
       "rank": 18,
-      "login": "vinayakkulkarni",
-      "profile": {
-        "login": "vinayakkulkarni",
-        "name": "Vinayak Kulkarni",
-        "avatar_url": "https://avatars.githubusercontent.com/u/19776877?v=4",
-        "html_url": "https://github.com/vinayakkulkarni",
-        "bio": "Never stop learning, cause life never stops teaching.\r\n\r\n❤️  FOSS",
-        "location": "Pune, India",
-        "followers": 521,
-        "total_stars": 1128
-      }
-    },
-    {
-      "rank": 19,
       "login": "aryashah2k",
       "profile": {
         "login": "aryashah2k",
@@ -264,39 +250,25 @@
         "bio": "Computer Science Major | Machine Learning | Software Engineering",
         "location": "Mumbai, India",
         "followers": 2638,
-        "total_stars": 1515
+        "total_stars": 1516
+      }
+    },
+    {
+      "rank": 19,
+      "login": "vinayakkulkarni",
+      "profile": {
+        "login": "vinayakkulkarni",
+        "name": "Vinayak Kulkarni",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19776877?v=4",
+        "html_url": "https://github.com/vinayakkulkarni",
+        "bio": "Never stop learning, cause life never stops teaching.\r\n\r\n❤️  FOSS",
+        "location": "Pune, India",
+        "followers": 522,
+        "total_stars": 1128
       }
     },
     {
       "rank": 20,
-      "login": "smaranjitghose",
-      "profile": {
-        "login": "smaranjitghose",
-        "name": "Smaranjit Ghose",
-        "avatar_url": "https://avatars.githubusercontent.com/u/46641503?v=4",
-        "html_url": "https://github.com/smaranjitghose",
-        "bio": "A life long learner who dabbles in data and algorithms to build fantastic tools and scalable applications.",
-        "location": "India",
-        "followers": 1074,
-        "total_stars": 3762
-      }
-    },
-    {
-      "rank": 21,
-      "login": "Vikranth3140",
-      "profile": {
-        "login": "Vikranth3140",
-        "name": "Vikranth Udandarao",
-        "avatar_url": "https://avatars.githubusercontent.com/u/122410275?v=4",
-        "html_url": "https://github.com/Vikranth3140",
-        "bio": "CSAI Junior at @IIIT-Delhi |\r\nBYLD Admin",
-        "location": "Delhi, India",
-        "followers": 594,
-        "total_stars": 188
-      }
-    },
-    {
-      "rank": 22,
       "login": "thetutlage",
       "profile": {
         "login": "thetutlage",
@@ -310,6 +282,34 @@
       }
     },
     {
+      "rank": 21,
+      "login": "Vikranth3140",
+      "profile": {
+        "login": "Vikranth3140",
+        "name": "Vikranth Udandarao",
+        "avatar_url": "https://avatars.githubusercontent.com/u/122410275?v=4",
+        "html_url": "https://github.com/Vikranth3140",
+        "bio": "CSAI Junior at @IIIT-Delhi |\r\nBYLD Admin",
+        "location": "Delhi, India",
+        "followers": 595,
+        "total_stars": 188
+      }
+    },
+    {
+      "rank": 22,
+      "login": "smaranjitghose",
+      "profile": {
+        "login": "smaranjitghose",
+        "name": "Smaranjit Ghose",
+        "avatar_url": "https://avatars.githubusercontent.com/u/46641503?v=4",
+        "html_url": "https://github.com/smaranjitghose",
+        "bio": "A life long learner who dabbles in data and algorithms to build fantastic tools and scalable applications.",
+        "location": "India",
+        "followers": 1074,
+        "total_stars": 3761
+      }
+    },
+    {
       "rank": 23,
       "login": "LakshyaDuhoonISU",
       "profile": {
@@ -319,7 +319,7 @@
         "html_url": "https://github.com/LakshyaDuhoonISU",
         "bio": "B.Tech CSE student at ITM Skills University.\r\nI am passionate about AI/ML and learning about new technologies.",
         "location": "Navi Mumbai, India",
-        "followers": 986,
+        "followers": 982,
         "total_stars": 155
       }
     },
@@ -347,8 +347,8 @@
         "html_url": "https://github.com/s-r-e-e-r-a-j",
         "bio": "I'm Sreeraj, a passionate individual interested in programming, web development, and ethical hacking.",
         "location": "kerala india",
-        "followers": 771,
-        "total_stars": 202
+        "followers": 772,
+        "total_stars": 203
       }
     },
     {
@@ -361,7 +361,7 @@
         "html_url": "https://github.com/samyakshah3008",
         "bio": "Software Engineer | Former Engineering @Cosmofeed @procred_ai @dicot_tech | Open Source @layer5io @meshery |  @microsoft Student Ambassador",
         "location": "India",
-        "followers": 428,
+        "followers": 429,
         "total_stars": 61
       }
     },
@@ -395,20 +395,6 @@
     },
     {
       "rank": 29,
-      "login": "MAZHARMIK",
-      "profile": {
-        "login": "MAZHARMIK",
-        "name": "MAZHAR",
-        "avatar_url": "https://avatars.githubusercontent.com/u/17107752?v=4",
-        "html_url": "https://github.com/MAZHARMIK",
-        "bio": "Don’t worry if it doesn’t work right. If everything did, you’d be out of a job. \r\n\r\nKeep Coding :)  \r\n  \r\n\r\n\r\nLinktree - https://linktr.ee/mazhar_mik",
-        "location": "Gurgaon, India",
-        "followers": 1489,
-        "total_stars": 2500
-      }
-    },
-    {
-      "rank": 30,
       "login": "pavanpodila",
       "profile": {
         "login": "pavanpodila",
@@ -419,6 +405,20 @@
         "location": "Hyderabad, India",
         "followers": 367,
         "total_stars": 190
+      }
+    },
+    {
+      "rank": 30,
+      "login": "MAZHARMIK",
+      "profile": {
+        "login": "MAZHARMIK",
+        "name": "MAZHAR",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17107752?v=4",
+        "html_url": "https://github.com/MAZHARMIK",
+        "bio": "Don’t worry if it doesn’t work right. If everything did, you’d be out of a job. \r\n\r\nKeep Coding :)  \r\n  \r\n\r\n\r\nLinktree - https://linktr.ee/mazhar_mik",
+        "location": "Gurgaon, India",
+        "followers": 1492,
+        "total_stars": 2503
       }
     },
     {
@@ -451,34 +451,20 @@
     },
     {
       "rank": 33,
-      "login": "shivammathur",
+      "login": "naman14",
       "profile": {
-        "login": "shivammathur",
-        "name": "Shivam Mathur",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1571086?v=4",
-        "html_url": "https://github.com/shivammathur",
-        "bio": "Creator of @setup-php",
-        "location": "India",
-        "followers": 1048,
-        "total_stars": 6823
+        "login": "naman14",
+        "name": "Naman Dwivedi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8599099?v=4",
+        "html_url": "https://github.com/naman14",
+        "bio": null,
+        "location": "New Delhi, India",
+        "followers": 1627,
+        "total_stars": 13976
       }
     },
     {
       "rank": 34,
-      "login": "UtkarshPathrabe",
-      "profile": {
-        "login": "UtkarshPathrabe",
-        "name": "Utkarsh Ashok Pathrabe",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7246712?v=4",
-        "html_url": "https://github.com/UtkarshPathrabe",
-        "bio": "Senior Systems Software Engineer (Autonomous Vehicles) at NVIDIA;\r\nComputer Science Graduate from BITS Pilani",
-        "location": "Pune, India",
-        "followers": 524,
-        "total_stars": 620
-      }
-    },
-    {
-      "rank": 35,
       "login": "sagnikghoshcr7",
       "profile": {
         "login": "sagnikghoshcr7",
@@ -492,17 +478,31 @@
       }
     },
     {
-      "rank": 36,
-      "login": "sayakpaul",
+      "rank": 35,
+      "login": "UtkarshPathrabe",
       "profile": {
-        "login": "sayakpaul",
-        "name": "Sayak Paul",
-        "avatar_url": "https://avatars.githubusercontent.com/u/22957388?v=4",
-        "html_url": "https://github.com/sayakpaul",
-        "bio": "ML at @huggingface | One PR at a time",
+        "login": "UtkarshPathrabe",
+        "name": "Utkarsh Ashok Pathrabe",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7246712?v=4",
+        "html_url": "https://github.com/UtkarshPathrabe",
+        "bio": "Senior Systems Software Engineer (Autonomous Vehicles) at NVIDIA;\r\nComputer Science Graduate from BITS Pilani",
+        "location": "Pune, India",
+        "followers": 524,
+        "total_stars": 620
+      }
+    },
+    {
+      "rank": 36,
+      "login": "shivammathur",
+      "profile": {
+        "login": "shivammathur",
+        "name": "Shivam Mathur",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1571086?v=4",
+        "html_url": "https://github.com/shivammathur",
+        "bio": "Creator of @setup-php",
         "location": "India",
-        "followers": 2787,
-        "total_stars": 5155
+        "followers": 1048,
+        "total_stars": 6824
       }
     },
     {
@@ -516,25 +516,39 @@
         "bio": "Linux Kernel Developer",
         "location": "Bangalore, India",
         "followers": 315,
-        "total_stars": 83
+        "total_stars": 84
       }
     },
     {
       "rank": 38,
-      "login": "albindavidc",
+      "login": "sayakpaul",
       "profile": {
-        "login": "albindavidc",
-        "name": "Albin David C",
-        "avatar_url": "https://avatars.githubusercontent.com/u/105530284?v=4",
-        "html_url": "https://github.com/albindavidc",
-        "bio": "🚀 A tech enthusiast with a love for problem-solving and attention to detail in fields of MEAN Stack Development and Design.",
-        "location": "Kerala, India",
-        "followers": 276,
-        "total_stars": 59
+        "login": "sayakpaul",
+        "name": "Sayak Paul",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22957388?v=4",
+        "html_url": "https://github.com/sayakpaul",
+        "bio": "ML at @huggingface | One PR at a time",
+        "location": "India",
+        "followers": 2789,
+        "total_stars": 5156
       }
     },
     {
       "rank": 39,
+      "login": "StarKnightt",
+      "profile": {
+        "login": "StarKnightt",
+        "name": "Prasenjit Nayak",
+        "avatar_url": "https://avatars.githubusercontent.com/u/92244026?v=4",
+        "html_url": "https://github.com/StarKnightt",
+        "bio": "I write code that’s clean and comments that aren’t.",
+        "location": "Odisha,India",
+        "followers": 314,
+        "total_stars": 319
+      }
+    },
+    {
+      "rank": 40,
       "login": "harshjuly12",
       "profile": {
         "login": "harshjuly12",
@@ -545,20 +559,6 @@
         "location": "Pune ~ Bhilai,  India",
         "followers": 527,
         "total_stars": 153
-      }
-    },
-    {
-      "rank": 40,
-      "login": "Sulagna-Dutta-Roy",
-      "profile": {
-        "login": "Sulagna-Dutta-Roy",
-        "name": "Sulagna Dutta Roy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/72568715?v=4",
-        "html_url": "https://github.com/Sulagna-Dutta-Roy",
-        "bio": "SDE || Building @WeBeginners-Community || Backend Developer || Application Support",
-        "location": "India",
-        "followers": 357,
-        "total_stars": 194
       }
     },
     {
@@ -577,6 +577,20 @@
     },
     {
       "rank": 42,
+      "login": "Sulagna-Dutta-Roy",
+      "profile": {
+        "login": "Sulagna-Dutta-Roy",
+        "name": "Sulagna Dutta Roy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/72568715?v=4",
+        "html_url": "https://github.com/Sulagna-Dutta-Roy",
+        "bio": "SDE || Building @WeBeginners-Community || Backend Developer || Application Support",
+        "location": "India",
+        "followers": 358,
+        "total_stars": 194
+      }
+    },
+    {
+      "rank": 43,
       "login": "Aryamanz29",
       "profile": {
         "login": "Aryamanz29",
@@ -590,7 +604,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "login": "thatbeautifuldream",
       "profile": {
         "login": "thatbeautifuldream",
@@ -599,12 +613,26 @@
         "html_url": "https://github.com/thatbeautifuldream",
         "bio": "Software Engineer with a nag for Design",
         "location": "Bangalore, India",
-        "followers": 369,
+        "followers": 370,
         "total_stars": 454
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
+      "login": "Aakashdeveloper",
+      "profile": {
+        "login": "Aakashdeveloper",
+        "name": "Aakash ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7868704?v=4",
+        "html_url": "https://github.com/Aakashdeveloper",
+        "bio": "\r\nSoftware developer,Online trainer  8+year , Javascript, Angular8, React Redux,Vue, Docker, GraphQl, Nodejs, Koa.js, \r\nPython,  Golang, MongoDB, AWS ",
+        "location": "India",
+        "followers": 4435,
+        "total_stars": 1741
+      }
+    },
+    {
+      "rank": 46,
       "login": "srikanthpragada",
       "profile": {
         "login": "srikanthpragada",
@@ -618,7 +646,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 47,
       "login": "singhsanket143",
       "profile": {
         "login": "singhsanket143",
@@ -627,40 +655,26 @@
         "html_url": "https://github.com/singhsanket143",
         "bio": "SDE 2 @microsoft |  SDE @Google | SDE @LinkedIn | Google Summer Of Code @berkmancenter \r\n| SDE @KingsGambitLab |\r\nProduct Engineer at @coding-blocks",
         "location": "India",
-        "followers": 4107,
+        "followers": 4109,
         "total_stars": 2957
       }
     },
     {
-      "rank": 46,
-      "login": "vishalsingh2972",
-      "profile": {
-        "login": "vishalsingh2972",
-        "name": "Vishal Singh",
-        "avatar_url": "https://avatars.githubusercontent.com/u/106817047?v=4",
-        "html_url": "https://github.com/vishalsingh2972",
-        "bio": "React.js ⭑ Next.js ⭑ 10k+ @linkedin ⭑ TypeScript ⭑ Full-Stack Developer ⭑ Web3 Newbie ⭑ Trying to build with Gen AI ⭑ PhD in Curiosity 🚀",
-        "location": "Hyderabad, India❤",
-        "followers": 271,
-        "total_stars": 376
-      }
-    },
-    {
-      "rank": 47,
-      "login": "Aakashdeveloper",
-      "profile": {
-        "login": "Aakashdeveloper",
-        "name": "Aakash ",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7868704?v=4",
-        "html_url": "https://github.com/Aakashdeveloper",
-        "bio": "\r\nSoftware developer,Online trainer  8+year , Javascript, Angular8, React Redux,Vue, Docker, GraphQl, Nodejs, Koa.js, \r\nPython,  Golang, MongoDB, AWS ",
-        "location": "India",
-        "followers": 4434,
-        "total_stars": 1741
-      }
-    },
-    {
       "rank": 48,
+      "login": "shreyansh26",
+      "profile": {
+        "login": "shreyansh26",
+        "name": "Shreyansh Singh",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20071112?v=4",
+        "html_url": "https://github.com/shreyansh26",
+        "bio": "Principal ML Engineer at Level AI. Ex- AI at @Mastercard, @Samsung Research. \r\nCS Grad, IIT (BHU) Varanasi.",
+        "location": "India",
+        "followers": 310,
+        "total_stars": 976
+      }
+    },
+    {
+      "rank": 49,
       "login": "spatialthoughts",
       "profile": {
         "login": "spatialthoughts",
@@ -674,20 +688,6 @@
       }
     },
     {
-      "rank": 49,
-      "login": "StarKnightt",
-      "profile": {
-        "login": "StarKnightt",
-        "name": "Prasenjit Nayak",
-        "avatar_url": "https://avatars.githubusercontent.com/u/92244026?v=4",
-        "html_url": "https://github.com/StarKnightt",
-        "bio": "I write code that’s clean and comments that aren’t.",
-        "location": "Odisha,India",
-        "followers": 312,
-        "total_stars": 308
-      }
-    },
-    {
       "rank": 50,
       "login": "Satyamkumarnavneet",
       "profile": {
@@ -697,8 +697,8 @@
         "html_url": "https://github.com/Satyamkumarnavneet",
         "bio": "Top 13% on @LeetCode | @Google Cloud Ready Facilitator | FRT Intern @Microsoft | Ambassador at @IBM Z | Postman Student Expert | @AWS Educate",
         "location": "India",
-        "followers": 367,
-        "total_stars": 72
+        "followers": 370,
+        "total_stars": 73
       }
     }
   ],
@@ -713,26 +713,12 @@
         "html_url": "https://github.com/JayantGoel001",
         "bio": "SDE-1 At @Swiggy | ASDE - 2 At @PublicisSapient | Former Data Science Intern At @Talentdecrypt | Former Android Developer At @Theatron",
         "location": "Ghaziabad, India, Planet C-53",
-        "followers": 977,
-        "total_stars": 1853
+        "followers": 981,
+        "total_stars": 1854
       }
     },
     {
       "rank": 2,
-      "login": "bigint",
-      "profile": {
-        "login": "bigint",
-        "name": "Bigint",
-        "avatar_url": "https://avatars.githubusercontent.com/u/69431456?v=4",
-        "html_url": "https://github.com/bigint",
-        "bio": "Creator of @heyxyz 🌸",
-        "location": "Bangalore, India",
-        "followers": 1176,
-        "total_stars": 45
-      }
-    },
-    {
-      "rank": 3,
       "login": "instrik",
       "profile": {
         "login": "instrik",
@@ -741,12 +727,40 @@
         "html_url": "https://github.com/instrik",
         "bio": "I am a full stack developer.\r\nFeel free to reach out to me for any opportunity.",
         "location": "Dehradun, India",
-        "followers": 2577,
+        "followers": 2578,
         "total_stars": 118
       }
     },
     {
+      "rank": 3,
+      "login": "bigint",
+      "profile": {
+        "login": "bigint",
+        "name": "Bigint",
+        "avatar_url": "https://avatars.githubusercontent.com/u/69431456?v=4",
+        "html_url": "https://github.com/bigint",
+        "bio": "Creator of @heyxyz 🌸",
+        "location": "Bangalore, India",
+        "followers": 1180,
+        "total_stars": 45
+      }
+    },
+    {
       "rank": 4,
+      "login": "farhan7reza7",
+      "profile": {
+        "login": "farhan7reza7",
+        "name": "Farhan Reza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108195448?v=4",
+        "html_url": "https://github.com/farhan7reza7",
+        "bio": "✨💻Founder & Developer of QuranBookk.com  | Software Developer |  Skilled in Js, Ts,  Py, MERN, React, NextJs, ...💡👨‍💻\r\n\r\n🌐let's get connected.🚀",
+        "location": "New Delhi, India",
+        "followers": 2417,
+        "total_stars": 1784
+      }
+    },
+    {
+      "rank": 5,
       "login": "vinayakkulkarni",
       "profile": {
         "login": "vinayakkulkarni",
@@ -755,12 +769,12 @@
         "html_url": "https://github.com/vinayakkulkarni",
         "bio": "Never stop learning, cause life never stops teaching.\r\n\r\n❤️  FOSS",
         "location": "Pune, India",
-        "followers": 521,
+        "followers": 522,
         "total_stars": 1128
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "login": "himanshu-dixit",
       "profile": {
         "login": "himanshu-dixit",
@@ -774,20 +788,6 @@
       }
     },
     {
-      "rank": 6,
-      "login": "amhsirak",
-      "profile": {
-        "login": "amhsirak",
-        "name": "Karishma Shukla",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76456498?v=4",
-        "html_url": "https://github.com/amhsirak",
-        "bio": "building maxun.dev",
-        "location": "Mumbai, India",
-        "followers": 372,
-        "total_stars": 204
-      }
-    },
-    {
       "rank": 7,
       "login": "ehsandeep",
       "profile": {
@@ -797,22 +797,22 @@
         "html_url": "https://github.com/ehsandeep",
         "bio": "Co-Founder / CTO @projectdiscovery \r\n\r\nOn a mission to simplify the security process and make it more accessible.\r\n\r\n",
         "location": "India",
-        "followers": 1596,
+        "followers": 1597,
         "total_stars": 79
       }
     },
     {
       "rank": 8,
-      "login": "mdazfar2",
+      "login": "amhsirak",
       "profile": {
-        "login": "mdazfar2",
-        "name": "Md Azfar Alam",
-        "avatar_url": "https://avatars.githubusercontent.com/u/100375390?v=4",
-        "html_url": "https://github.com/mdazfar2",
-        "bio": "Open Source 💜 | Founder at HelpOpsHub.com 🌐 | DevOps Practitioner 🔖 | Knowledge Sharer 📚 | Open for Collab 🤝",
-        "location": "Jaipur, Rajasthan",
-        "followers": 292,
-        "total_stars": 281
+        "login": "amhsirak",
+        "name": "Karishma Shukla",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76456498?v=4",
+        "html_url": "https://github.com/amhsirak",
+        "bio": "building maxun.dev",
+        "location": "Mumbai, India",
+        "followers": 374,
+        "total_stars": 204
       }
     },
     {
@@ -825,22 +825,22 @@
         "html_url": "https://github.com/sanidhyy",
         "bio": "I code in JavaScript (mostly React), I am currently a high school student. It's not all fun, but I learn and make awesome things. I'm gonna make big footprint.",
         "location": "Sitapur, UP, India",
-        "followers": 334,
-        "total_stars": 1506
+        "followers": 335,
+        "total_stars": 1510
       }
     },
     {
       "rank": 10,
-      "login": "rubydamodar",
+      "login": "mdazfar2",
       "profile": {
-        "login": "rubydamodar",
-        "name": "Ruby Damodar Poddar",
-        "avatar_url": "https://avatars.githubusercontent.com/u/184370054?v=4",
-        "html_url": "https://github.com/rubydamodar",
-        "bio": "⁌ ᴅᴀᴛᴀ 📊 | ᴄᴏᴅᴇ 💻 | ᴡɪʟᴅʟɪғᴇ ᴋɪɴ 🐾 | ɴᴀᴛᴜʀᴇ'ꜱ ꜱᴏᴜʟ 🌿 | ᴘᴏᴇᴛʀʏ ✍",
-        "location": "New Delhi",
-        "followers": 275,
-        "total_stars": 233
+        "login": "mdazfar2",
+        "name": "Md Azfar Alam",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100375390?v=4",
+        "html_url": "https://github.com/mdazfar2",
+        "bio": "Open Source 💜 | Founder at HelpOpsHub.com 🌐 | DevOps Practitioner 🔖 | Knowledge Sharer 📚 | Open for Collab 🤝",
+        "location": "Jaipur, Rajasthan",
+        "followers": 291,
+        "total_stars": 281
       }
     },
     {
@@ -867,8 +867,8 @@
         "html_url": "https://github.com/kovidgoyal",
         "bio": "Principal developer of calibre and kitty",
         "location": "Mumbai, India",
-        "followers": 4581,
-        "total_stars": 49249
+        "followers": 4582,
+        "total_stars": 49273
       }
     },
     {
@@ -896,7 +896,7 @@
         "bio": "Creator of @setup-php",
         "location": "India",
         "followers": 1048,
-        "total_stars": 6823
+        "total_stars": 6824
       }
     },
     {
@@ -924,7 +924,7 @@
         "bio": "just another developer",
         "location": "India",
         "followers": 299,
-        "total_stars": 948
+        "total_stars": 1007
       }
     },
     {
@@ -937,8 +937,8 @@
         "html_url": "https://github.com/sayakpaul",
         "bio": "ML at @huggingface | One PR at a time",
         "location": "India",
-        "followers": 2787,
-        "total_stars": 5155
+        "followers": 2789,
+        "total_stars": 5156
       }
     },
     {
@@ -965,7 +965,7 @@
         "html_url": "https://github.com/QUICK-GCP-LAB",
         "bio": "Welcome to the QUICK GCP LAB GitHub repository ! \r\n\r\nThese repository are designed to help learners solve Google Cloud Labs...",
         "location": "India",
-        "followers": 300,
+        "followers": 302,
         "total_stars": 453
       }
     },
@@ -979,7 +979,7 @@
         "html_url": "https://github.com/Sulagna-Dutta-Roy",
         "bio": "SDE || Building @WeBeginners-Community || Backend Developer || Application Support",
         "location": "India",
-        "followers": 357,
+        "followers": 358,
         "total_stars": 194
       }
     },
@@ -1007,7 +1007,7 @@
         "html_url": "https://github.com/Vikranth3140",
         "bio": "CSAI Junior at @IIIT-Delhi |\r\nBYLD Admin",
         "location": "Delhi, India",
-        "followers": 594,
+        "followers": 595,
         "total_stars": 188
       }
     },
@@ -1021,7 +1021,7 @@
         "html_url": "https://github.com/PiyushKumarSingh-90",
         "bio": null,
         "location": "maharastra mumbai",
-        "followers": 697,
+        "followers": 695,
         "total_stars": 30
       }
     },
@@ -1036,25 +1036,11 @@
         "bio": "A life long learner who dabbles in data and algorithms to build fantastic tools and scalable applications.",
         "location": "India",
         "followers": 1074,
-        "total_stars": 3762
+        "total_stars": 3761
       }
     },
     {
       "rank": 25,
-      "login": "farhan7reza7",
-      "profile": {
-        "login": "farhan7reza7",
-        "name": "Farhan Reza",
-        "avatar_url": "https://avatars.githubusercontent.com/u/108195448?v=4",
-        "html_url": "https://github.com/farhan7reza7",
-        "bio": "✨💻Founder & Developer of QuranBookk.com  | Software Developer |  Skilled in Js, Ts,  Py, MERN, React, NextJs, ...💡👨‍💻\r\n\r\n🌐let's get connected.🚀",
-        "location": "New Delhi, India",
-        "followers": 2417,
-        "total_stars": 1784
-      }
-    },
-    {
-      "rank": 26,
       "login": "Envoy-VC",
       "profile": {
         "login": "Envoy-VC",
@@ -1068,7 +1054,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 26,
       "login": "littledivy",
       "profile": {
         "login": "littledivy",
@@ -1077,8 +1063,22 @@
         "html_url": "https://github.com/littledivy",
         "bio": null,
         "location": "India",
-        "followers": 574,
+        "followers": 573,
         "total_stars": 1901
+      }
+    },
+    {
+      "rank": 27,
+      "login": "VJBots",
+      "profile": {
+        "login": "VJBots",
+        "name": "Tech VJ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/122880036?v=4",
+        "html_url": "https://github.com/VJBots",
+        "bio": "My Name Is Vijay Anand 👨‍💻.\r\n",
+        "location": "India",
+        "followers": 315,
+        "total_stars": 2359
       }
     },
     {
@@ -1092,25 +1092,11 @@
         "bio": "Computer Science Major | Machine Learning | Software Engineering",
         "location": "Mumbai, India",
         "followers": 2638,
-        "total_stars": 1515
+        "total_stars": 1516
       }
     },
     {
       "rank": 29,
-      "login": "VJBots",
-      "profile": {
-        "login": "VJBots",
-        "name": "Tech VJ",
-        "avatar_url": "https://avatars.githubusercontent.com/u/122880036?v=4",
-        "html_url": "https://github.com/VJBots",
-        "bio": "My Name Is Vijay Anand 👨‍💻.\r\n",
-        "location": "India",
-        "followers": 313,
-        "total_stars": 2351
-      }
-    },
-    {
-      "rank": 30,
       "login": "samyakshah3008",
       "profile": {
         "login": "samyakshah3008",
@@ -1119,12 +1105,12 @@
         "html_url": "https://github.com/samyakshah3008",
         "bio": "Software Engineer | Former Engineering @Cosmofeed @procred_ai @dicot_tech | Open Source @layer5io @meshery |  @microsoft Student Ambassador",
         "location": "India",
-        "followers": 428,
+        "followers": 429,
         "total_stars": 61
       }
     },
     {
-      "rank": 31,
+      "rank": 30,
       "login": "dhruvmanila",
       "profile": {
         "login": "dhruvmanila",
@@ -1138,7 +1124,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 31,
       "login": "redashu",
       "profile": {
         "login": "redashu",
@@ -1152,7 +1138,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "login": "LakshyaDuhoonISU",
       "profile": {
         "login": "LakshyaDuhoonISU",
@@ -1161,12 +1147,12 @@
         "html_url": "https://github.com/LakshyaDuhoonISU",
         "bio": "B.Tech CSE student at ITM Skills University.\r\nI am passionate about AI/ML and learning about new technologies.",
         "location": "Navi Mumbai, India",
-        "followers": 986,
+        "followers": 982,
         "total_stars": 155
       }
     },
     {
-      "rank": 34,
+      "rank": 33,
       "login": "s-r-e-e-r-a-j",
       "profile": {
         "login": "s-r-e-e-r-a-j",
@@ -1175,12 +1161,12 @@
         "html_url": "https://github.com/s-r-e-e-r-a-j",
         "bio": "I'm Sreeraj, a passionate individual interested in programming, web development, and ethical hacking.",
         "location": "kerala india",
-        "followers": 771,
-        "total_stars": 202
+        "followers": 772,
+        "total_stars": 203
       }
     },
     {
-      "rank": 35,
+      "rank": 34,
       "login": "tkmagesh",
       "profile": {
         "login": "tkmagesh",
@@ -1194,7 +1180,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 35,
       "login": "sarthakroy2002",
       "profile": {
         "login": "sarthakroy2002",
@@ -1208,7 +1194,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 36,
       "login": "pavanpodila",
       "profile": {
         "login": "pavanpodila",
@@ -1219,6 +1205,20 @@
         "location": "Hyderabad, India",
         "followers": 367,
         "total_stars": 190
+      }
+    },
+    {
+      "rank": 37,
+      "login": "akhilnarang",
+      "profile": {
+        "login": "akhilnarang",
+        "name": "Akhil Narang",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10119037?v=4",
+        "html_url": "https://github.com/akhilnarang",
+        "bio": "I enjoy eating, coding, binging TV shows!",
+        "location": "India",
+        "followers": 748,
+        "total_stars": 761
       }
     },
     {
@@ -1237,20 +1237,6 @@
     },
     {
       "rank": 39,
-      "login": "akhilnarang",
-      "profile": {
-        "login": "akhilnarang",
-        "name": "Akhil Narang",
-        "avatar_url": "https://avatars.githubusercontent.com/u/10119037?v=4",
-        "html_url": "https://github.com/akhilnarang",
-        "bio": "I enjoy eating, coding, binging TV shows!",
-        "location": "India",
-        "followers": 748,
-        "total_stars": 761
-      }
-    },
-    {
-      "rank": 40,
       "login": "omsandippatil",
       "profile": {
         "login": "omsandippatil",
@@ -1264,7 +1250,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 40,
       "login": "MAZHARMIK",
       "profile": {
         "login": "MAZHARMIK",
@@ -1273,12 +1259,12 @@
         "html_url": "https://github.com/MAZHARMIK",
         "bio": "Don’t worry if it doesn’t work right. If everything did, you’d be out of a job. \r\n\r\nKeep Coding :)  \r\n  \r\n\r\n\r\nLinktree - https://linktr.ee/mazhar_mik",
         "location": "Gurgaon, India",
-        "followers": 1489,
-        "total_stars": 2500
+        "followers": 1492,
+        "total_stars": 2503
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "login": "raisedadead",
       "profile": {
         "login": "raisedadead",
@@ -1287,12 +1273,12 @@
         "html_url": "https://github.com/raisedadead",
         "bio": "nocturnal developer • open-source enthusiast • noob photographer • devops • homelabs • cloud & infra \r\n@freeCodeCamp ",
         "location": "Bengaluru, India",
-        "followers": 1247,
+        "followers": 1250,
         "total_stars": 99
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "login": "sanket-25",
       "profile": {
         "login": "sanket-25",
@@ -1306,7 +1292,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "login": "soumik12345",
       "profile": {
         "login": "soumik12345",
@@ -1320,7 +1306,49 @@
       }
     },
     {
+      "rank": 44,
+      "login": "naman14",
+      "profile": {
+        "login": "naman14",
+        "name": "Naman Dwivedi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8599099?v=4",
+        "html_url": "https://github.com/naman14",
+        "bio": null,
+        "location": "New Delhi, India",
+        "followers": 1627,
+        "total_stars": 13976
+      }
+    },
+    {
       "rank": 45,
+      "login": "arpitbbhayani",
+      "profile": {
+        "login": "arpitbbhayani",
+        "name": "Arpit Bhayani",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4745789?v=4",
+        "html_url": "https://github.com/arpitbbhayani",
+        "bio": "Creator of @DiceDB • Staff @ Google Ads and Dataproc, ex-Amazon Fast Data",
+        "location": "Bangalore",
+        "followers": 5604,
+        "total_stars": 3523
+      }
+    },
+    {
+      "rank": 46,
+      "login": "StarKnightt",
+      "profile": {
+        "login": "StarKnightt",
+        "name": "Prasenjit Nayak",
+        "avatar_url": "https://avatars.githubusercontent.com/u/92244026?v=4",
+        "html_url": "https://github.com/StarKnightt",
+        "bio": "I write code that’s clean and comments that aren’t.",
+        "location": "Odisha,India",
+        "followers": 314,
+        "total_stars": 319
+      }
+    },
+    {
+      "rank": 47,
       "login": "thatbeautifuldream",
       "profile": {
         "login": "thatbeautifuldream",
@@ -1329,12 +1357,12 @@
         "html_url": "https://github.com/thatbeautifuldream",
         "bio": "Software Engineer with a nag for Design",
         "location": "Bangalore, India",
-        "followers": 369,
+        "followers": 370,
         "total_stars": 454
       }
     },
     {
-      "rank": 46,
+      "rank": 48,
       "login": "danascape",
       "profile": {
         "login": "danascape",
@@ -1344,53 +1372,11 @@
         "bio": "Linux Kernel Developer",
         "location": "Bangalore, India",
         "followers": 315,
-        "total_stars": 83
-      }
-    },
-    {
-      "rank": 47,
-      "login": "arpitbbhayani",
-      "profile": {
-        "login": "arpitbbhayani",
-        "name": "Arpit Bhayani",
-        "avatar_url": "https://avatars.githubusercontent.com/u/4745789?v=4",
-        "html_url": "https://github.com/arpitbbhayani",
-        "bio": "Creator of @DiceDB • Staff @ Google Ads and Dataproc, ex-Amazon Fast Data",
-        "location": "Bangalore",
-        "followers": 5600,
-        "total_stars": 3520
-      }
-    },
-    {
-      "rank": 48,
-      "login": "UtkarshPathrabe",
-      "profile": {
-        "login": "UtkarshPathrabe",
-        "name": "Utkarsh Ashok Pathrabe",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7246712?v=4",
-        "html_url": "https://github.com/UtkarshPathrabe",
-        "bio": "Senior Systems Software Engineer (Autonomous Vehicles) at NVIDIA;\r\nComputer Science Graduate from BITS Pilani",
-        "location": "Pune, India",
-        "followers": 524,
-        "total_stars": 620
+        "total_stars": 84
       }
     },
     {
       "rank": 49,
-      "login": "albindavidc",
-      "profile": {
-        "login": "albindavidc",
-        "name": "Albin David C",
-        "avatar_url": "https://avatars.githubusercontent.com/u/105530284?v=4",
-        "html_url": "https://github.com/albindavidc",
-        "bio": "🚀 A tech enthusiast with a love for problem-solving and attention to detail in fields of MEAN Stack Development and Design.",
-        "location": "Kerala, India",
-        "followers": 276,
-        "total_stars": 59
-      }
-    },
-    {
-      "rank": 50,
       "login": "sagnikghoshcr7",
       "profile": {
         "login": "sagnikghoshcr7",
@@ -1401,6 +1387,20 @@
         "location": "Kolkata",
         "followers": 371,
         "total_stars": 935
+      }
+    },
+    {
+      "rank": 50,
+      "login": "UtkarshPathrabe",
+      "profile": {
+        "login": "UtkarshPathrabe",
+        "name": "Utkarsh Ashok Pathrabe",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7246712?v=4",
+        "html_url": "https://github.com/UtkarshPathrabe",
+        "bio": "Senior Systems Software Engineer (Autonomous Vehicles) at NVIDIA;\r\nComputer Science Graduate from BITS Pilani",
+        "location": "Pune, India",
+        "followers": 524,
+        "total_stars": 620
       }
     }
   ],
@@ -1415,7 +1415,7 @@
         "html_url": "https://github.com/ehsandeep",
         "bio": "Co-Founder / CTO @projectdiscovery \r\n\r\nOn a mission to simplify the security process and make it more accessible.\r\n\r\n",
         "location": "India",
-        "followers": 1596,
+        "followers": 1597,
         "total_stars": 79
       }
     },
@@ -1429,7 +1429,7 @@
         "html_url": "https://github.com/samarjitsahoo",
         "bio": "I am an enthusiastic coder driven by an unyielding passion for programming. With a strong dedication to mastering new technologies and solving complex problems.",
         "location": "India, Asia 🇮🇳",
-        "followers": 10877,
+        "followers": 10881,
         "total_stars": 468
       }
     },
@@ -1443,7 +1443,7 @@
         "html_url": "https://github.com/amhsirak",
         "bio": "building maxun.dev",
         "location": "Mumbai, India",
-        "followers": 372,
+        "followers": 374,
         "total_stars": 204
       }
     },
@@ -1463,300 +1463,6 @@
     },
     {
       "rank": 5,
-      "login": "JayantGoel001",
-      "profile": {
-        "login": "JayantGoel001",
-        "name": "Jayant Goel",
-        "avatar_url": "https://avatars.githubusercontent.com/u/54479676?v=4",
-        "html_url": "https://github.com/JayantGoel001",
-        "bio": "SDE-1 At @Swiggy | ASDE - 2 At @PublicisSapient | Former Data Science Intern At @Talentdecrypt | Former Android Developer At @Theatron",
-        "location": "Ghaziabad, India, Planet C-53",
-        "followers": 977,
-        "total_stars": 1853
-      }
-    },
-    {
-      "rank": 6,
-      "login": "vinayakkulkarni",
-      "profile": {
-        "login": "vinayakkulkarni",
-        "name": "Vinayak Kulkarni",
-        "avatar_url": "https://avatars.githubusercontent.com/u/19776877?v=4",
-        "html_url": "https://github.com/vinayakkulkarni",
-        "bio": "Never stop learning, cause life never stops teaching.\r\n\r\n❤️  FOSS",
-        "location": "Pune, India",
-        "followers": 521,
-        "total_stars": 1128
-      }
-    },
-    {
-      "rank": 7,
-      "login": "amark720",
-      "profile": {
-        "login": "amark720",
-        "name": "Amar kumar",
-        "avatar_url": "https://avatars.githubusercontent.com/u/32639666?v=4",
-        "html_url": "https://github.com/amark720",
-        "bio": "I am working as a Lead Data Scientist @PersistentSystems. Having 5+ years of experience in Machine Learning, NLP, GenAI, Deep Learning & Automation.",
-        "location": "Kolkata, India",
-        "followers": 1562,
-        "total_stars": 175
-      }
-    },
-    {
-      "rank": 8,
-      "login": "sauravhathi",
-      "profile": {
-        "login": "sauravhathi",
-        "name": "Saurav Hathi",
-        "avatar_url": "https://avatars.githubusercontent.com/u/61316762?v=4",
-        "html_url": "https://github.com/sauravhathi",
-        "bio": "Currently working as a freelance web engineer.",
-        "location": "India",
-        "followers": 339,
-        "total_stars": 663
-      }
-    },
-    {
-      "rank": 9,
-      "login": "bigint",
-      "profile": {
-        "login": "bigint",
-        "name": "Bigint",
-        "avatar_url": "https://avatars.githubusercontent.com/u/69431456?v=4",
-        "html_url": "https://github.com/bigint",
-        "bio": "Creator of @heyxyz 🌸",
-        "location": "Bangalore, India",
-        "followers": 1176,
-        "total_stars": 45
-      }
-    },
-    {
-      "rank": 10,
-      "login": "arpitbbhayani",
-      "profile": {
-        "login": "arpitbbhayani",
-        "name": "Arpit Bhayani",
-        "avatar_url": "https://avatars.githubusercontent.com/u/4745789?v=4",
-        "html_url": "https://github.com/arpitbbhayani",
-        "bio": "Creator of @DiceDB • Staff @ Google Ads and Dataproc, ex-Amazon Fast Data",
-        "location": "Bangalore",
-        "followers": 5600,
-        "total_stars": 3520
-      }
-    },
-    {
-      "rank": 11,
-      "login": "instrik",
-      "profile": {
-        "login": "instrik",
-        "name": "Aakash Agarwal",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44710607?v=4",
-        "html_url": "https://github.com/instrik",
-        "bio": "I am a full stack developer.\r\nFeel free to reach out to me for any opportunity.",
-        "location": "Dehradun, India",
-        "followers": 2577,
-        "total_stars": 118
-      }
-    },
-    {
-      "rank": 12,
-      "login": "ragunathjawahar",
-      "profile": {
-        "login": "ragunathjawahar",
-        "name": "Ragunath Jawahar",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1141970?v=4",
-        "html_url": "https://github.com/ragunathjawahar",
-        "bio": "Legacy code modernization—usually Android. I craft visual narratives that unravel your software’s interior.",
-        "location": "Bengaluru, India",
-        "followers": 580,
-        "total_stars": 4404
-      }
-    },
-    {
-      "rank": 13,
-      "login": "manishbisht",
-      "profile": {
-        "login": "manishbisht",
-        "name": "Manish Bisht",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14255990?v=4",
-        "html_url": "https://github.com/manishbisht",
-        "bio": "Engineer at @BookMyShow | #ReactJS #JavaScript | @facebook Open Source Contributor | @google Summer of Code' 17 with @phpmyadmin",
-        "location": "Jaipur, Rajasthan, India",
-        "followers": 427,
-        "total_stars": 1931
-      }
-    },
-    {
-      "rank": 14,
-      "login": "sanidhyy",
-      "profile": {
-        "login": "sanidhyy",
-        "name": "Sanidhya Kumar Verma",
-        "avatar_url": "https://avatars.githubusercontent.com/u/71302066?v=4",
-        "html_url": "https://github.com/sanidhyy",
-        "bio": "I code in JavaScript (mostly React), I am currently a high school student. It's not all fun, but I learn and make awesome things. I'm gonna make big footprint.",
-        "location": "Sitapur, UP, India",
-        "followers": 334,
-        "total_stars": 1506
-      }
-    },
-    {
-      "rank": 15,
-      "login": "shivammathur",
-      "profile": {
-        "login": "shivammathur",
-        "name": "Shivam Mathur",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1571086?v=4",
-        "html_url": "https://github.com/shivammathur",
-        "bio": "Creator of @setup-php",
-        "location": "India",
-        "followers": 1048,
-        "total_stars": 6823
-      }
-    },
-    {
-      "rank": 16,
-      "login": "tuhinpal",
-      "profile": {
-        "login": "tuhinpal",
-        "name": "Tuhin Kanti Pal",
-        "avatar_url": "https://avatars.githubusercontent.com/u/51857187?v=4",
-        "html_url": "https://github.com/tuhinpal",
-        "bio": "Beating AI with human logic 😁",
-        "location": "India",
-        "followers": 281,
-        "total_stars": 1883
-      }
-    },
-    {
-      "rank": 17,
-      "login": "itswadesh",
-      "profile": {
-        "login": "itswadesh",
-        "name": "Swadesh Behera",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1191896?v=4",
-        "html_url": "https://github.com/itswadesh",
-        "bio": "Built svelte-commerce",
-        "location": "India",
-        "followers": 1223,
-        "total_stars": 2163
-      }
-    },
-    {
-      "rank": 18,
-      "login": "sagar-vaghela",
-      "profile": {
-        "login": "sagar-vaghela",
-        "name": "HVG-Ninja's",
-        "avatar_url": "https://avatars.githubusercontent.com/u/30215189?v=4",
-        "html_url": "https://github.com/sagar-vaghela",
-        "bio": "My works:\r\n✔ NextJs, ReactJS, Redux, NodeJs, NestJs, Prisma, ChatGPT, Mongo, Postgres \r\n✔ JavaScript/TypeScript, GatsBy, Supabess \r\n✔ API Integration,Responsive",
-        "location": "Pune, India",
-        "followers": 277,
-        "total_stars": 20
-      }
-    },
-    {
-      "rank": 19,
-      "login": "Sabyasachi-Seal",
-      "profile": {
-        "login": "Sabyasachi-Seal",
-        "name": "Sabyasachi Seal",
-        "avatar_url": "https://avatars.githubusercontent.com/u/36451386?v=4",
-        "html_url": "https://github.com/Sabyasachi-Seal",
-        "bio": "Engineering Software",
-        "location": "India",
-        "followers": 1251,
-        "total_stars": 430
-      }
-    },
-    {
-      "rank": 20,
-      "login": "niranjan94",
-      "profile": {
-        "login": "niranjan94",
-        "name": "Niranjan Rajendran",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2404372?v=4",
-        "html_url": "https://github.com/niranjan94",
-        "bio": "Building @mockingjay-io.\r\nSolutions Architect & Software Engineer. ",
-        "location": "India",
-        "followers": 308,
-        "total_stars": 851
-      }
-    },
-    {
-      "rank": 21,
-      "login": "mdazfar2",
-      "profile": {
-        "login": "mdazfar2",
-        "name": "Md Azfar Alam",
-        "avatar_url": "https://avatars.githubusercontent.com/u/100375390?v=4",
-        "html_url": "https://github.com/mdazfar2",
-        "bio": "Open Source 💜 | Founder at HelpOpsHub.com 🌐 | DevOps Practitioner 🔖 | Knowledge Sharer 📚 | Open for Collab 🤝",
-        "location": "Jaipur, Rajasthan",
-        "followers": 292,
-        "total_stars": 281
-      }
-    },
-    {
-      "rank": 22,
-      "login": "HashNuke",
-      "profile": {
-        "login": "HashNuke",
-        "name": "Akash Manohar",
-        "avatar_url": "https://avatars.githubusercontent.com/u/84005?v=4",
-        "html_url": "https://github.com/HashNuke",
-        "bio": "Created asdf version manager, Heroku Buildpack for Elixir and a few other things.",
-        "location": "Bangalore",
-        "followers": 568,
-        "total_stars": 4102
-      }
-    },
-    {
-      "rank": 23,
-      "login": "thatbeautifuldream",
-      "profile": {
-        "login": "thatbeautifuldream",
-        "name": "Milind Mishra",
-        "avatar_url": "https://avatars.githubusercontent.com/u/28717686?v=4",
-        "html_url": "https://github.com/thatbeautifuldream",
-        "bio": "Software Engineer with a nag for Design",
-        "location": "Bangalore, India",
-        "followers": 369,
-        "total_stars": 454
-      }
-    },
-    {
-      "rank": 24,
-      "login": "niks-nikhil-anand",
-      "profile": {
-        "login": "niks-nikhil-anand",
-        "name": "Nikhil Anand",
-        "avatar_url": "https://avatars.githubusercontent.com/u/137920494?v=4",
-        "html_url": "https://github.com/niks-nikhil-anand",
-        "bio": "A Full Stack Web Developer with a proficiency in MERN stack development (ReactJS, Next.js, ExpressJS, MongoDB).",
-        "location": "Delhi",
-        "followers": 533,
-        "total_stars": 33
-      }
-    },
-    {
-      "rank": 25,
-      "login": "rubydamodar",
-      "profile": {
-        "login": "rubydamodar",
-        "name": "Ruby Damodar Poddar",
-        "avatar_url": "https://avatars.githubusercontent.com/u/184370054?v=4",
-        "html_url": "https://github.com/rubydamodar",
-        "bio": "⁌ ᴅᴀᴛᴀ 📊 | ᴄᴏᴅᴇ 💻 | ᴡɪʟᴅʟɪғᴇ ᴋɪɴ 🐾 | ɴᴀᴛᴜʀᴇ'ꜱ ꜱᴏᴜʟ 🌿 | ᴘᴏᴇᴛʀʏ ✍",
-        "location": "New Delhi",
-        "followers": 275,
-        "total_stars": 233
-      }
-    },
-    {
-      "rank": 26,
       "login": "farhan7reza7",
       "profile": {
         "login": "farhan7reza7",
@@ -1770,21 +1476,259 @@
       }
     },
     {
-      "rank": 27,
-      "login": "neobuddy89",
+      "rank": 6,
+      "login": "sauravhathi",
       "profile": {
-        "login": "neobuddy89",
-        "name": "Pranav Vashi",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1227398?v=4",
-        "html_url": "https://github.com/neobuddy89",
-        "bio": "Hey.",
-        "location": "Mumbai",
-        "followers": 336,
-        "total_stars": 96
+        "login": "sauravhathi",
+        "name": "Saurav Hathi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/61316762?v=4",
+        "html_url": "https://github.com/sauravhathi",
+        "bio": "Currently working as a freelance web engineer.",
+        "location": "India",
+        "followers": 339,
+        "total_stars": 666
       }
     },
     {
-      "rank": 28,
+      "rank": 7,
+      "login": "JayantGoel001",
+      "profile": {
+        "login": "JayantGoel001",
+        "name": "Jayant Goel",
+        "avatar_url": "https://avatars.githubusercontent.com/u/54479676?v=4",
+        "html_url": "https://github.com/JayantGoel001",
+        "bio": "SDE-1 At @Swiggy | ASDE - 2 At @PublicisSapient | Former Data Science Intern At @Talentdecrypt | Former Android Developer At @Theatron",
+        "location": "Ghaziabad, India, Planet C-53",
+        "followers": 981,
+        "total_stars": 1854
+      }
+    },
+    {
+      "rank": 8,
+      "login": "vinayakkulkarni",
+      "profile": {
+        "login": "vinayakkulkarni",
+        "name": "Vinayak Kulkarni",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19776877?v=4",
+        "html_url": "https://github.com/vinayakkulkarni",
+        "bio": "Never stop learning, cause life never stops teaching.\r\n\r\n❤️  FOSS",
+        "location": "Pune, India",
+        "followers": 522,
+        "total_stars": 1128
+      }
+    },
+    {
+      "rank": 9,
+      "login": "amark720",
+      "profile": {
+        "login": "amark720",
+        "name": "Amar kumar",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32639666?v=4",
+        "html_url": "https://github.com/amark720",
+        "bio": "I am working as a Lead Data Scientist @PersistentSystems. Having 5+ years of experience in Machine Learning, NLP, GenAI, Deep Learning & Automation.",
+        "location": "Kolkata, India",
+        "followers": 1562,
+        "total_stars": 175
+      }
+    },
+    {
+      "rank": 10,
+      "login": "bigint",
+      "profile": {
+        "login": "bigint",
+        "name": "Bigint",
+        "avatar_url": "https://avatars.githubusercontent.com/u/69431456?v=4",
+        "html_url": "https://github.com/bigint",
+        "bio": "Creator of @heyxyz 🌸",
+        "location": "Bangalore, India",
+        "followers": 1180,
+        "total_stars": 45
+      }
+    },
+    {
+      "rank": 11,
+      "login": "instrik",
+      "profile": {
+        "login": "instrik",
+        "name": "Aakash Agarwal",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44710607?v=4",
+        "html_url": "https://github.com/instrik",
+        "bio": "I am a full stack developer.\r\nFeel free to reach out to me for any opportunity.",
+        "location": "Dehradun, India",
+        "followers": 2578,
+        "total_stars": 118
+      }
+    },
+    {
+      "rank": 12,
+      "login": "arpitbbhayani",
+      "profile": {
+        "login": "arpitbbhayani",
+        "name": "Arpit Bhayani",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4745789?v=4",
+        "html_url": "https://github.com/arpitbbhayani",
+        "bio": "Creator of @DiceDB • Staff @ Google Ads and Dataproc, ex-Amazon Fast Data",
+        "location": "Bangalore",
+        "followers": 5604,
+        "total_stars": 3523
+      }
+    },
+    {
+      "rank": 13,
+      "login": "ragunathjawahar",
+      "profile": {
+        "login": "ragunathjawahar",
+        "name": "Ragunath Jawahar",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1141970?v=4",
+        "html_url": "https://github.com/ragunathjawahar",
+        "bio": "Legacy code modernization—usually Android. I craft visual narratives that unravel your software’s interior.",
+        "location": "Bengaluru, India",
+        "followers": 580,
+        "total_stars": 4404
+      }
+    },
+    {
+      "rank": 14,
+      "login": "manishbisht",
+      "profile": {
+        "login": "manishbisht",
+        "name": "Manish Bisht",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14255990?v=4",
+        "html_url": "https://github.com/manishbisht",
+        "bio": "Engineer at @BookMyShow | #ReactJS #JavaScript | @facebook Open Source Contributor | @google Summer of Code' 17 with @phpmyadmin",
+        "location": "Jaipur, Rajasthan, India",
+        "followers": 427,
+        "total_stars": 1932
+      }
+    },
+    {
+      "rank": 15,
+      "login": "sanidhyy",
+      "profile": {
+        "login": "sanidhyy",
+        "name": "Sanidhya Kumar Verma",
+        "avatar_url": "https://avatars.githubusercontent.com/u/71302066?v=4",
+        "html_url": "https://github.com/sanidhyy",
+        "bio": "I code in JavaScript (mostly React), I am currently a high school student. It's not all fun, but I learn and make awesome things. I'm gonna make big footprint.",
+        "location": "Sitapur, UP, India",
+        "followers": 335,
+        "total_stars": 1510
+      }
+    },
+    {
+      "rank": 16,
+      "login": "shivammathur",
+      "profile": {
+        "login": "shivammathur",
+        "name": "Shivam Mathur",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1571086?v=4",
+        "html_url": "https://github.com/shivammathur",
+        "bio": "Creator of @setup-php",
+        "location": "India",
+        "followers": 1048,
+        "total_stars": 6824
+      }
+    },
+    {
+      "rank": 17,
+      "login": "itswadesh",
+      "profile": {
+        "login": "itswadesh",
+        "name": "Swadesh Behera",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1191896?v=4",
+        "html_url": "https://github.com/itswadesh",
+        "bio": "Built svelte-commerce",
+        "location": "India",
+        "followers": 1224,
+        "total_stars": 2164
+      }
+    },
+    {
+      "rank": 18,
+      "login": "Sabyasachi-Seal",
+      "profile": {
+        "login": "Sabyasachi-Seal",
+        "name": "Sabyasachi Seal",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36451386?v=4",
+        "html_url": "https://github.com/Sabyasachi-Seal",
+        "bio": "Engineering Software",
+        "location": "India",
+        "followers": 1251,
+        "total_stars": 430
+      }
+    },
+    {
+      "rank": 19,
+      "login": "niranjan94",
+      "profile": {
+        "login": "niranjan94",
+        "name": "Niranjan Rajendran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2404372?v=4",
+        "html_url": "https://github.com/niranjan94",
+        "bio": "Building @mockingjay-io.\r\nSolutions Architect & Software Engineer. ",
+        "location": "India",
+        "followers": 308,
+        "total_stars": 853
+      }
+    },
+    {
+      "rank": 20,
+      "login": "HashNuke",
+      "profile": {
+        "login": "HashNuke",
+        "name": "Akash Manohar",
+        "avatar_url": "https://avatars.githubusercontent.com/u/84005?v=4",
+        "html_url": "https://github.com/HashNuke",
+        "bio": "Created asdf version manager, Heroku Buildpack for Elixir and a few other things.",
+        "location": "Bangalore",
+        "followers": 569,
+        "total_stars": 4103
+      }
+    },
+    {
+      "rank": 21,
+      "login": "mdazfar2",
+      "profile": {
+        "login": "mdazfar2",
+        "name": "Md Azfar Alam",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100375390?v=4",
+        "html_url": "https://github.com/mdazfar2",
+        "bio": "Open Source 💜 | Founder at HelpOpsHub.com 🌐 | DevOps Practitioner 🔖 | Knowledge Sharer 📚 | Open for Collab 🤝",
+        "location": "Jaipur, Rajasthan",
+        "followers": 291,
+        "total_stars": 281
+      }
+    },
+    {
+      "rank": 22,
+      "login": "thatbeautifuldream",
+      "profile": {
+        "login": "thatbeautifuldream",
+        "name": "Milind Mishra",
+        "avatar_url": "https://avatars.githubusercontent.com/u/28717686?v=4",
+        "html_url": "https://github.com/thatbeautifuldream",
+        "bio": "Software Engineer with a nag for Design",
+        "location": "Bangalore, India",
+        "followers": 370,
+        "total_stars": 454
+      }
+    },
+    {
+      "rank": 23,
+      "login": "niks-nikhil-anand",
+      "profile": {
+        "login": "niks-nikhil-anand",
+        "name": "Nikhil Anand",
+        "avatar_url": "https://avatars.githubusercontent.com/u/137920494?v=4",
+        "html_url": "https://github.com/niks-nikhil-anand",
+        "bio": "A Full Stack Web Developer with a proficiency in MERN stack development (ReactJS, Next.js, ExpressJS, MongoDB).",
+        "location": "Delhi",
+        "followers": 533,
+        "total_stars": 33
+      }
+    },
+    {
+      "rank": 24,
       "login": "kovidgoyal",
       "profile": {
         "login": "kovidgoyal",
@@ -1793,40 +1737,12 @@
         "html_url": "https://github.com/kovidgoyal",
         "bio": "Principal developer of calibre and kitty",
         "location": "Mumbai, India",
-        "followers": 4581,
-        "total_stars": 49249
+        "followers": 4582,
+        "total_stars": 49273
       }
     },
     {
-      "rank": 29,
-      "login": "imbhargav5",
-      "profile": {
-        "login": "imbhargav5",
-        "name": "Bhargav Ponnapalli",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2936644?v=4",
-        "html_url": "https://github.com/imbhargav5",
-        "bio": "Freelance developer • Creator of rooks.js \r\n• Past - Core Contributor of styled-components 💅 • Trainer",
-        "location": "Hyderabad, India",
-        "followers": 548,
-        "total_stars": 4062
-      }
-    },
-    {
-      "rank": 30,
-      "login": "indrajithc",
-      "profile": {
-        "login": "indrajithc",
-        "name": "Indrajith C",
-        "avatar_url": "https://avatars.githubusercontent.com/u/25261536?v=4",
-        "html_url": "https://github.com/indrajithc",
-        "bio": null,
-        "location": "Kerala, India",
-        "followers": 579,
-        "total_stars": 94
-      }
-    },
-    {
-      "rank": 31,
+      "rank": 25,
       "login": "aahnik",
       "profile": {
         "login": "aahnik",
@@ -1840,7 +1756,49 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 26,
+      "login": "neobuddy89",
+      "profile": {
+        "login": "neobuddy89",
+        "name": "Pranav Vashi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1227398?v=4",
+        "html_url": "https://github.com/neobuddy89",
+        "bio": "Hey.",
+        "location": "Mumbai",
+        "followers": 336,
+        "total_stars": 96
+      }
+    },
+    {
+      "rank": 27,
+      "login": "indrajithc",
+      "profile": {
+        "login": "indrajithc",
+        "name": "Indrajith C",
+        "avatar_url": "https://avatars.githubusercontent.com/u/25261536?v=4",
+        "html_url": "https://github.com/indrajithc",
+        "bio": null,
+        "location": "Kerala, India",
+        "followers": 579,
+        "total_stars": 94
+      }
+    },
+    {
+      "rank": 28,
+      "login": "imbhargav5",
+      "profile": {
+        "login": "imbhargav5",
+        "name": "Bhargav Ponnapalli",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2936644?v=4",
+        "html_url": "https://github.com/imbhargav5",
+        "bio": "Freelance developer • Creator of rooks.js \r\n• Past - Core Contributor of styled-components 💅 • Trainer",
+        "location": "Hyderabad, India",
+        "followers": 548,
+        "total_stars": 4062
+      }
+    },
+    {
+      "rank": 29,
       "login": "saketkc",
       "profile": {
         "login": "saketkc",
@@ -1850,11 +1808,11 @@
         "bio": null,
         "location": "Mumbai",
         "followers": 304,
-        "total_stars": 1201
+        "total_stars": 1202
       }
     },
     {
-      "rank": 33,
+      "rank": 30,
       "login": "sayakpaul",
       "profile": {
         "login": "sayakpaul",
@@ -1863,12 +1821,12 @@
         "html_url": "https://github.com/sayakpaul",
         "bio": "ML at @huggingface | One PR at a time",
         "location": "India",
-        "followers": 2787,
-        "total_stars": 5155
+        "followers": 2789,
+        "total_stars": 5156
       }
     },
     {
-      "rank": 34,
+      "rank": 31,
       "login": "mehulmpt",
       "profile": {
         "login": "mehulmpt",
@@ -1877,12 +1835,12 @@
         "html_url": "https://github.com/mehulmpt",
         "bio": "Trust me, I'm a programmer.",
         "location": "New Delhi, India",
-        "followers": 1284,
+        "followers": 1285,
         "total_stars": 565
       }
     },
     {
-      "rank": 35,
+      "rank": 32,
       "login": "barelyhuman",
       "profile": {
         "login": "barelyhuman",
@@ -1892,11 +1850,11 @@
         "bio": "just another developer",
         "location": "India",
         "followers": 299,
-        "total_stars": 948
+        "total_stars": 1007
       }
     },
     {
-      "rank": 36,
+      "rank": 33,
       "login": "Spikeysanju",
       "profile": {
         "login": "Spikeysanju",
@@ -1906,11 +1864,11 @@
         "bio": "Designer Founder @THISUXHQ | Google Developer Expert for Android",
         "location": "Chennai, India",
         "followers": 1321,
-        "total_stars": 5684
+        "total_stars": 5685
       }
     },
     {
-      "rank": 37,
+      "rank": 34,
       "login": "Vikranth3140",
       "profile": {
         "login": "Vikranth3140",
@@ -1919,12 +1877,12 @@
         "html_url": "https://github.com/Vikranth3140",
         "bio": "CSAI Junior at @IIIT-Delhi |\r\nBYLD Admin",
         "location": "Delhi, India",
-        "followers": 594,
+        "followers": 595,
         "total_stars": 188
       }
     },
     {
-      "rank": 38,
+      "rank": 35,
       "login": "anshuopinion",
       "profile": {
         "login": "anshuopinion",
@@ -1934,39 +1892,11 @@
         "bio": "Youtuber | Instructor | Influencer | FullStack MERN DEVELOPER + Flutter Developer",
         "location": "India",
         "followers": 1178,
-        "total_stars": 1084
+        "total_stars": 1085
       }
     },
     {
-      "rank": 39,
-      "login": "mukeshsolanki",
-      "profile": {
-        "login": "mukeshsolanki",
-        "name": "Mukesh Solanki",
-        "avatar_url": "https://avatars.githubusercontent.com/u/10584200?v=4",
-        "html_url": "https://github.com/mukeshsolanki",
-        "bio": "Mukesh Solanki is a full-stack developer from Bangalore, India.",
-        "location": "Bangalore",
-        "followers": 358,
-        "total_stars": 3116
-      }
-    },
-    {
-      "rank": 40,
-      "login": "dr5hn",
-      "profile": {
-        "login": "dr5hn",
-        "name": "Darshan Gada",
-        "avatar_url": "https://avatars.githubusercontent.com/u/6929121?v=4",
-        "html_url": "https://github.com/dr5hn",
-        "bio": "💻 Full Stack Developer 🚀 Freelancer 🎧 MusixFreak  👨‍💻TechGeek 🕸️WebDev 🤩 SelfTaught 🌍 Traveller ☕ LovesChai\r\n",
-        "location": "Mumbai",
-        "followers": 317,
-        "total_stars": 8125
-      }
-    },
-    {
-      "rank": 41,
+      "rank": 36,
       "login": "Bhupender2",
       "profile": {
         "login": "Bhupender2",
@@ -1980,35 +1910,35 @@
       }
     },
     {
-      "rank": 42,
-      "login": "sanket-25",
+      "rank": 37,
+      "login": "mukeshsolanki",
       "profile": {
-        "login": "sanket-25",
-        "name": "Sanket Dhuri",
-        "avatar_url": "https://avatars.githubusercontent.com/u/49972214?v=4",
-        "html_url": "https://github.com/sanket-25",
-        "bio": "Student | Web App Developer | AI ML Enthusiast | Athlete",
-        "location": "Mumbai, Maharastra",
-        "followers": 455,
-        "total_stars": 24
+        "login": "mukeshsolanki",
+        "name": "Mukesh Solanki",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10584200?v=4",
+        "html_url": "https://github.com/mukeshsolanki",
+        "bio": "Mukesh Solanki is a full-stack developer from Bangalore, India.",
+        "location": "Bangalore",
+        "followers": 358,
+        "total_stars": 3116
       }
     },
     {
-      "rank": 43,
-      "login": "0xmainak",
+      "rank": 38,
+      "login": "dr5hn",
       "profile": {
-        "login": "0xmainak",
-        "name": "Mainak",
-        "avatar_url": "https://avatars.githubusercontent.com/u/173810554?v=4",
-        "html_url": "https://github.com/0xmainak",
-        "bio": null,
-        "location": "India",
-        "followers": 727,
-        "total_stars": 40
+        "login": "dr5hn",
+        "name": "Darshan Gada",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6929121?v=4",
+        "html_url": "https://github.com/dr5hn",
+        "bio": "💻 Full Stack Developer 🚀 Freelancer 🎧 MusixFreak  👨‍💻TechGeek 🕸️WebDev 🤩 SelfTaught 🌍 Traveller ☕ LovesChai\r\n",
+        "location": "Mumbai",
+        "followers": 317,
+        "total_stars": 8128
       }
     },
     {
-      "rank": 44,
+      "rank": 39,
       "login": "Akshay-Vs",
       "profile": {
         "login": "Akshay-Vs",
@@ -2022,7 +1952,35 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 40,
+      "login": "sanket-25",
+      "profile": {
+        "login": "sanket-25",
+        "name": "Sanket Dhuri",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49972214?v=4",
+        "html_url": "https://github.com/sanket-25",
+        "bio": "Student | Web App Developer | AI ML Enthusiast | Athlete",
+        "location": "Mumbai, Maharastra",
+        "followers": 455,
+        "total_stars": 24
+      }
+    },
+    {
+      "rank": 41,
+      "login": "0xmainak",
+      "profile": {
+        "login": "0xmainak",
+        "name": "Mainak",
+        "avatar_url": "https://avatars.githubusercontent.com/u/173810554?v=4",
+        "html_url": "https://github.com/0xmainak",
+        "bio": null,
+        "location": "India",
+        "followers": 733,
+        "total_stars": 40
+      }
+    },
+    {
+      "rank": 42,
       "login": "parikshit223933",
       "profile": {
         "login": "parikshit223933",
@@ -2036,7 +1994,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 43,
       "login": "ashkulz",
       "profile": {
         "login": "ashkulz",
@@ -2045,22 +2003,64 @@
         "html_url": "https://github.com/ashkulz",
         "bio": null,
         "location": "Mumbai, India",
-        "followers": 411,
-        "total_stars": 641
+        "followers": 412,
+        "total_stars": 644
+      }
+    },
+    {
+      "rank": 44,
+      "login": "rohan-kulkarni-25",
+      "profile": {
+        "login": "rohan-kulkarni-25",
+        "name": "Rohan Kulkarni",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76584243?v=4",
+        "html_url": "https://github.com/rohan-kulkarni-25",
+        "bio": "building",
+        "location": "Bangalore ",
+        "followers": 395,
+        "total_stars": 183
+      }
+    },
+    {
+      "rank": 45,
+      "login": "s-yadav",
+      "profile": {
+        "login": "s-yadav",
+        "name": "Sudhanshu Yadav",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3096766?v=4",
+        "html_url": "https://github.com/s-yadav",
+        "bio": "Lead Architect at Prophecy, Ex HackerRank. Deep interest in perceived experience and how things work internally. ",
+        "location": "Bangalore, India",
+        "followers": 707,
+        "total_stars": 6531
+      }
+    },
+    {
+      "rank": 46,
+      "login": "pavanpodila",
+      "profile": {
+        "login": "pavanpodila",
+        "name": "Pavan Podila",
+        "avatar_url": "https://avatars.githubusercontent.com/u/156846?v=4",
+        "html_url": "https://github.com/pavanpodila",
+        "bio": "Building @vyuh-tech. \r\n\r\nGoogle Developers Expert (Web, Dart, Flutter), React, Flutter, Swift on iOS/macOS. Creator of mobx.dart, QuickLens",
+        "location": "Hyderabad, India",
+        "followers": 367,
+        "total_stars": 190
       }
     },
     {
       "rank": 47,
-      "login": "ishandutta2007",
+      "login": "aashutoshrathi",
       "profile": {
-        "login": "ishandutta2007",
-        "name": "ishan dutta",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4",
-        "html_url": "https://github.com/ishandutta2007",
-        "bio": "is an AI obsessed Entrepreneur, #ex-FAANG, #GenerativeAI, #RPA.\r\n",
-        "location": "India",
-        "followers": 1210,
-        "total_stars": 1794
+        "login": "aashutoshrathi",
+        "name": "Aashutosh Rathi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/21199234?v=4",
+        "html_url": "https://github.com/aashutoshrathi",
+        "bio": "Building 🛠",
+        "location": "Bengaluru, India",
+        "followers": 547,
+        "total_stars": 821
       }
     },
     {
@@ -2079,30 +2079,30 @@
     },
     {
       "rank": 49,
-      "login": "rohan-kulkarni-25",
+      "login": "ishandutta2007",
       "profile": {
-        "login": "rohan-kulkarni-25",
-        "name": "Rohan Kulkarni",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76584243?v=4",
-        "html_url": "https://github.com/rohan-kulkarni-25",
-        "bio": "building",
-        "location": "Bangalore ",
-        "followers": 395,
-        "total_stars": 183
+        "login": "ishandutta2007",
+        "name": "ishan dutta",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2527354?v=4",
+        "html_url": "https://github.com/ishandutta2007",
+        "bio": "is an AI obsessed Entrepreneur, #ex-FAANG, #GenerativeAI, #RPA.\r\n",
+        "location": "India",
+        "followers": 1208,
+        "total_stars": 1794
       }
     },
     {
       "rank": 50,
-      "login": "pavanpodila",
+      "login": "msfjarvis",
       "profile": {
-        "login": "pavanpodila",
-        "name": "Pavan Podila",
-        "avatar_url": "https://avatars.githubusercontent.com/u/156846?v=4",
-        "html_url": "https://github.com/pavanpodila",
-        "bio": "Building @vyuh-tech. \r\n\r\nGoogle Developers Expert (Web, Dart, Flutter), React, Flutter, Swift on iOS/macOS. Creator of mobx.dart, QuickLens",
-        "location": "Hyderabad, India",
-        "followers": 367,
-        "total_stars": 190
+        "login": "msfjarvis",
+        "name": "Harsh Shandilya",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13348378?v=4",
+        "html_url": "https://github.com/msfjarvis",
+        "bio": "Android and Kotlin Multiplatform engineer foraying in Rust",
+        "location": "New Delhi",
+        "followers": 686,
+        "total_stars": 657
       }
     }
   ],
@@ -2114,8 +2114,8 @@
     "nvidiagameworks",
     "github-craftwork",
     "cloudcommunity",
-    "fnplus",
     "collective",
-    "webxdao"
+    "fnplus",
+    "risk-first"
   ]
 }
