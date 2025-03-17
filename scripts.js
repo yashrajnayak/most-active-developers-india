@@ -145,32 +145,30 @@ async function fetchGitHubData() {
 function processGitHubData() {
   if (!githubData) return;
   
-  const allUsers = [
-    ...githubData.user,
-    ...githubData.user_public,
-    ...githubData.user_private,
-  ];
-  
-  // Filter out duplicates based on login
-  const uniqueUsers = allUsers.filter((user, index, self) => 
-    index === self.findIndex(u => u.login === user.login)
-  );
-  
   // Create profiles map
   profilesMap = {};
-  uniqueUsers.forEach(user => {
-    if (user.profile) {
-      profilesMap[user.login] = {
-        login: user.login,
-        name: user.profile.name,
-        avatar_url: user.profile.avatar_url || user.avatar,
-        html_url: user.profile.html_url || user.url,
-        bio: user.profile.bio,
-        location: user.profile.location,
-        followers: user.profile.followers,
-        total_stars: user.profile.total_stars || 0,
-        rank: 0 // Default rank that will be overridden by category-specific rank
-      };
+  
+  // Process each category separately
+  ['user', 'user_public', 'user_private'].forEach(category => {
+    if (Array.isArray(githubData[category])) {
+      githubData[category].forEach(user => {
+        if (user && user.login) {
+          // Make sure we have a valid profile object
+          if (!profilesMap[user.login] && user.profile) {
+            profilesMap[user.login] = {
+              login: user.login,
+              name: user.profile.name || user.login,
+              avatar_url: user.profile.avatar_url || 'assets/placeholder.svg',
+              html_url: user.profile.html_url || `https://github.com/${user.login}`,
+              bio: user.profile.bio || '',
+              location: user.profile.location || '',
+              followers: user.profile.followers || 0,
+              total_stars: user.profile.total_stars || 0,
+              rank: user.rank || 0
+            };
+          }
+        }
+      });
     }
   });
 }
@@ -202,14 +200,14 @@ function renderUsers() {
 }
 
 function getUsersByCategory(category) {
-  if (!githubData) return [];
+  if (!githubData || !githubData[category]) return [];
   
   return githubData[category]
+    .filter(userEntry => userEntry && userEntry.login && profilesMap[userEntry.login])
     .map(userEntry => ({
-      ...profilesMap[userEntry.login], // Spread profile data first
-      ...userEntry, // Then spread category entry to ensure rank is from the category
-    }))
-    .filter(user => !!profilesMap[user.login]);
+      ...profilesMap[userEntry.login],
+      rank: userEntry.rank || 0
+    }));
 }
 
 function createUserCard(user, index) {
