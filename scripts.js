@@ -313,26 +313,46 @@ function createUserCard(user, index) {
   return card;
 }
 
-// Loading state
-function showLoading() {
-  loadingContainer.innerHTML = '';
-  loadingContainer.classList.remove('hidden');
+// Add a new function to manage container visibility
+function showContainer(containerType) {
+  // First hide all containers
+  loadingContainer.classList.add('hidden');
   errorContainer.classList.add('hidden');
   emptyContainer.classList.add('hidden');
   usersContainer.classList.add('hidden');
+  
+  // Then show only the requested container
+  switch(containerType) {
+    case 'loading':
+      loadingContainer.classList.remove('hidden');
+      break;
+    case 'error':
+      errorContainer.classList.remove('hidden');
+      break;
+    case 'empty':
+      emptyContainer.classList.remove('hidden');
+      break;
+    case 'users':
+      usersContainer.classList.remove('hidden');
+      break;
+  }
+}
+
+// Loading state
+function showLoading() {
+  loadingContainer.innerHTML = '';
   
   // Create skeleton cards
   for (let i = 0; i < 8; i++) {
     const skeletonCard = createSkeletonCard();
     loadingContainer.appendChild(skeletonCard);
   }
+  
+  showContainer('loading');
 }
 
 function hideLoading() {
-  loadingContainer.classList.add('hidden');
-  errorContainer.classList.add('hidden');
-  emptyContainer.classList.add('hidden');
-  usersContainer.classList.remove('hidden');
+  showContainer('users');
 }
 
 function createSkeletonCard() {
@@ -364,12 +384,8 @@ function createSkeletonCard() {
 
 // Error state
 function showError(message) {
-  hideLoading();
-  errorContainer.classList.remove('hidden');
-  emptyContainer.classList.add('hidden');
-  usersContainer.classList.add('hidden');
-  
   errorMessage.textContent = message;
+  showContainer('error');
 }
 
 function hideError() {
@@ -378,10 +394,7 @@ function hideError() {
 
 // Empty state
 function showEmpty() {
-  hideLoading();
-  hideError();
-  emptyContainer.classList.remove('hidden');
-  usersContainer.classList.add('hidden');
+  showContainer('empty');
 }
 
 function hideEmpty() {
