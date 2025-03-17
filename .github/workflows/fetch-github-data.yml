@@ -22,7 +22,7 @@ jobs:
           node-version: '18'
 
       - name: Install dependencies
-        run: npm install node-fetch@3 url@0.11 --no-save
+        run: npm install
 
       - name: Fetch GitHub data
         env:

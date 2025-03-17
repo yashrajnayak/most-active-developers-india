@@ -1,0 +1,17 @@
+{
+  "name": "most-active-developers-india",
+  "version": "1.0.0",
+  "description": "Showcases the most active developers from India on GitHub",
+  "type": "module",
+  "main": "scripts.js",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "keywords": [
+    "github",
+    "developers",
+    "india"
+  ],
+  "author": "Yashraj Nayak",
+  "license": "MIT"
+}
