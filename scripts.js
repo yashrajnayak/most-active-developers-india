@@ -330,6 +330,8 @@ function showLoading() {
 
 function hideLoading() {
   loadingContainer.classList.add('hidden');
+  errorContainer.classList.add('hidden');
+  emptyContainer.classList.add('hidden');
   usersContainer.classList.remove('hidden');
 }
 
