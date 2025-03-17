@@ -1,0 +1,273 @@
+{
+  "date": "2025-03-17T10:12:49.401Z",
+  "user": [
+    {
+      "rank": 1,
+      "login": "JayantGoel001",
+      "profile": {
+        "login": "JayantGoel001",
+        "name": "Jayant Goel",
+        "avatar_url": "https://avatars.githubusercontent.com/u/54479676?v=4",
+        "html_url": "https://github.com/JayantGoel001",
+        "bio": "SDE-1 At @Swiggy | ASDE - 2 At @PublicisSapient | Former Data Science Intern At @Talentdecrypt | Former Android Developer At @Theatron",
+        "location": "Ghaziabad, India, Planet C-53",
+        "followers": 995,
+        "total_stars": 1850
+      }
+    },
+    {
+      "rank": 2,
+      "login": "bigint",
+      "profile": {
+        "login": "bigint",
+        "name": "Bigint",
+        "avatar_url": "https://avatars.githubusercontent.com/u/69431456?v=4",
+        "html_url": "https://github.com/bigint",
+        "bio": "Creator of @heyxyz 🌸",
+        "location": "Bangalore, India",
+        "followers": 1183,
+        "total_stars": 45
+      }
+    },
+    {
+      "rank": 3,
+      "login": "instrik",
+      "profile": {
+        "login": "instrik",
+        "name": "Aakash Agarwal",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44710607?v=4",
+        "html_url": "https://github.com/instrik",
+        "bio": "I am a full stack developer.\r\nFeel free to reach out to me for any opportunity.",
+        "location": "Dehradun, India",
+        "followers": 2583,
+        "total_stars": 118
+      }
+    },
+    {
+      "rank": 4,
+      "login": "farhan7reza7",
+      "profile": {
+        "login": "farhan7reza7",
+        "name": "Farhan Reza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108195448?v=4",
+        "html_url": "https://github.com/farhan7reza7",
+        "bio": "✨💻Founder & Developer of QuranBookk.com  | Software Developer |  Skilled in Js, Ts,  Py, MERN, React, NextJs, ...💡👨‍💻\r\n\r\n🌐let's get connected.🚀",
+        "location": "New Delhi, India",
+        "followers": 2416,
+        "total_stars": 1785
+      }
+    },
+    {
+      "rank": 5,
+      "login": "amhsirak",
+      "profile": {
+        "login": "amhsirak",
+        "name": "Karishma Shukla",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76456498?v=4",
+        "html_url": "https://github.com/amhsirak",
+        "bio": "building maxun.dev",
+        "location": "Mumbai, India",
+        "followers": 375,
+        "total_stars": 204
+      }
+    },
+    {
+      "rank": 6,
+      "login": "sanidhyy",
+      "profile": {
+        "login": "sanidhyy",
+        "name": "Sanidhya Kumar Verma",
+        "avatar_url": "https://avatars.githubusercontent.com/u/71302066?v=4",
+        "html_url": "https://github.com/sanidhyy",
+        "bio": "I code in JavaScript (mostly React), I am currently a high school student. It's not all fun, but I learn and make awesome things. I'm gonna make big footprint.",
+        "location": "Sitapur, UP, India",
+        "followers": 337,
+        "total_stars": 1519
+      }
+    }
+  ],
+  "user_public": [
+    {
+      "rank": 1,
+      "login": "JayantGoel001",
+      "profile": {
+        "login": "JayantGoel001",
+        "name": "Jayant Goel",
+        "avatar_url": "https://avatars.githubusercontent.com/u/54479676?v=4",
+        "html_url": "https://github.com/JayantGoel001",
+        "bio": "SDE-1 At @Swiggy | ASDE - 2 At @PublicisSapient | Former Data Science Intern At @Talentdecrypt | Former Android Developer At @Theatron",
+        "location": "Ghaziabad, India, Planet C-53",
+        "followers": 995,
+        "total_stars": 1850
+      }
+    },
+    {
+      "rank": 2,
+      "login": "instrik",
+      "profile": {
+        "login": "instrik",
+        "name": "Aakash Agarwal",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44710607?v=4",
+        "html_url": "https://github.com/instrik",
+        "bio": "I am a full stack developer.\r\nFeel free to reach out to me for any opportunity.",
+        "location": "Dehradun, India",
+        "followers": 2583,
+        "total_stars": 118
+      }
+    },
+    {
+      "rank": 3,
+      "login": "bigint",
+      "profile": {
+        "login": "bigint",
+        "name": "Bigint",
+        "avatar_url": "https://avatars.githubusercontent.com/u/69431456?v=4",
+        "html_url": "https://github.com/bigint",
+        "bio": "Creator of @heyxyz 🌸",
+        "location": "Bangalore, India",
+        "followers": 1183,
+        "total_stars": 45
+      }
+    },
+    {
+      "rank": 4,
+      "login": "farhan7reza7",
+      "profile": {
+        "login": "farhan7reza7",
+        "name": "Farhan Reza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108195448?v=4",
+        "html_url": "https://github.com/farhan7reza7",
+        "bio": "✨💻Founder & Developer of QuranBookk.com  | Software Developer |  Skilled in Js, Ts,  Py, MERN, React, NextJs, ...💡👨‍💻\r\n\r\n🌐let's get connected.🚀",
+        "location": "New Delhi, India",
+        "followers": 2416,
+        "total_stars": 1785
+      }
+    },
+    {
+      "rank": 5,
+      "login": "vinayakkulkarni",
+      "profile": {
+        "login": "vinayakkulkarni",
+        "name": "Vinayak Kulkarni",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19776877?v=4",
+        "html_url": "https://github.com/vinayakkulkarni",
+        "bio": "Never stop learning, cause life never stops teaching.\r\n\r\n❤️  FOSS",
+        "location": "Pune, India",
+        "followers": 522,
+        "total_stars": 1128
+      }
+    },
+    {
+      "rank": 6,
+      "login": "himanshu-dixit",
+      "profile": {
+        "login": "himanshu-dixit",
+        "name": "Himanshu Dixit",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6849438?v=4",
+        "html_url": "https://github.com/himanshu-dixit",
+        "bio": "building stuff",
+        "location": "India",
+        "followers": 368,
+        "total_stars": 41
+      }
+    }
+  ],
+  "user_private": [
+    {
+      "rank": 1,
+      "login": "ehsandeep",
+      "profile": {
+        "login": "ehsandeep",
+        "name": "Sandeep Singh",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8293321?v=4",
+        "html_url": "https://github.com/ehsandeep",
+        "bio": "Co-Founder / CTO @projectdiscovery \r\n\r\nOn a mission to simplify the security process and make it more accessible.\r\n\r\n",
+        "location": "India",
+        "followers": 1605,
+        "total_stars": 79
+      }
+    },
+    {
+      "rank": 2,
+      "login": "samarjitsahoo",
+      "profile": {
+        "login": "samarjitsahoo",
+        "name": "Samarjit Sahoo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/145245473?v=4",
+        "html_url": "https://github.com/samarjitsahoo",
+        "bio": "I am an enthusiastic coder driven by an unyielding passion for programming. With a strong dedication to mastering new technologies and solving complex problems.",
+        "location": "India, Asia 🇮🇳",
+        "followers": 10913,
+        "total_stars": 472
+      }
+    },
+    {
+      "rank": 3,
+      "login": "amhsirak",
+      "profile": {
+        "login": "amhsirak",
+        "name": "Karishma Shukla",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76456498?v=4",
+        "html_url": "https://github.com/amhsirak",
+        "bio": "building maxun.dev",
+        "location": "Mumbai, India",
+        "followers": 375,
+        "total_stars": 204
+      }
+    },
+    {
+      "rank": 4,
+      "login": "himanshu-dixit",
+      "profile": {
+        "login": "himanshu-dixit",
+        "name": "Himanshu Dixit",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6849438?v=4",
+        "html_url": "https://github.com/himanshu-dixit",
+        "bio": "building stuff",
+        "location": "India",
+        "followers": 368,
+        "total_stars": 41
+      }
+    },
+    {
+      "rank": 5,
+      "login": "farhan7reza7",
+      "profile": {
+        "login": "farhan7reza7",
+        "name": "Farhan Reza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108195448?v=4",
+        "html_url": "https://github.com/farhan7reza7",
+        "bio": "✨💻Founder & Developer of QuranBookk.com  | Software Developer |  Skilled in Js, Ts,  Py, MERN, React, NextJs, ...💡👨‍💻\r\n\r\n🌐let's get connected.🚀",
+        "location": "New Delhi, India",
+        "followers": 2416,
+        "total_stars": 1785
+      }
+    },
+    {
+      "rank": 6,
+      "login": "sauravhathi",
+      "profile": {
+        "login": "sauravhathi",
+        "name": "Saurav Hathi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/61316762?v=4",
+        "html_url": "https://github.com/sauravhathi",
+        "bio": "Currently working as a freelance web engineer.",
+        "location": "India",
+        "followers": 342,
+        "total_stars": 675
+      }
+    }
+  ],
+  "orgs": [
+    "eddiehubcommunity",
+    "fossasia",
+    "design-and-code",
+    "devs-dungeon",
+    "nvidiagameworks",
+    "github-craftwork",
+    "cloudcommunity",
+    "collective",
+    "fnplus",
+    "risk-first"
+  ]
+}
