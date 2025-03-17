@@ -1,0 +1,39 @@
+name: Fetch GitHub User Data
+
+on:
+  schedule:
+    - cron: '46 9 * * *'  # Run at 09:46 UTC (30 mins after source update) / 15:16 IST
+  workflow_dispatch:  # Allow manual triggering
+
+# Set permissions of the GITHUB_TOKEN
+permissions:
+  contents: write
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install node-fetch@3 url@0.11 --no-save
+
+      - name: Fetch GitHub data
+        env:
+          GITHUB_TOKEN: ${{ secrets.MOST_ACTIVE_INDIA }}
+        run: |
+          mkdir -p public/data
+          node .github/workflows/fetch-data.js
+        
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/data/github-data.json
+          git diff --staged --quiet || (git commit -m "Update GitHub user data" && git push)
